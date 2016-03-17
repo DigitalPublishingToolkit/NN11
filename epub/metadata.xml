@@ -1,26 +1,24 @@
-<dc:identifier id="epub-id-1">urn:isbn:978-94-92302-02-1</dc:identifier>
+<dc:identifier id="epub-id-1">urn:isbn:??????</dc:identifier>
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
-<dc:title id="epub-title-1">The Internet Revolution: From Dotcom Capitalism to Cybernetic Communism</dc:title>
+<dc:title id="epub-title-1">The Ends of the Internet</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
 <dc:publisher>Institute of Network Cultures</dc:publisher>    
-<dc:date id="epub-date">2015-10</dc:date>
+<dc:date id="epub-date">2016-04</dc:date>
 <dc:language>en-US</dc:language>
-<dc:creator id="epub-creator-0">Richard Barbrook</dc:creator>
+<dc:creator id="epub-creator-0"> Patrice Riemens</dc:creator>
 <meta refines="#epub-creator-0" property="role" scheme="marc:relators">aut</meta>
-<dc:creator id="epub-creator-1">Andy Cameron</dc:creator>
-<meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
 <dc:contributor id="epub-contributor-0">Geert Lovink</dc:contributor>
 <meta refines="#epub-contributor-0" property="role" scheme="marc:relators">edt</meta>
 <dc:contributor id="epub-contributor-1">Miriam Rasch</dc:contributor>
 <meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
 <dc:contributor id="epub-contributor-3">André Castro</dc:contributor>
 <meta refines="#epub-contributor-3" property="role" scheme="marc:relators">dsr</meta>
-<dc:contributor id="epub-contributor-4">Medamo</dc:contributor>
+<dc:contributor id="epub-contributor-4">Loes Sikkes</dc:contributor>
 <meta refines="#epub-contributor-4" property="role" scheme="marc:relators">dsr</meta>
 
 <dc:rights>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</dc:rights>
-<dc:subject>Richard Barbrook, Net, media, technology, digital, gift economy, cyber-communism, Marxism, California, Silicon Valley, computer, 1990s, theory, capitalism, ideology, Andy Cameron, internet, criticism, nettime, economy, politics, anniversary edition, neoliberalism, hippies, Marshall McLuhan, thought probes, US military, Lenin, future, history, information</dc:subject>
-<dc:description>‘The Californian Ideology’ by Richard Barbrook and Andy Cameron is the symbol of the first wave of internet criticism as embodied by magazines such as Mute, where the essay first was published in 1995, and the nettime mailinglist, where it later appeared as well. The internet might have fundamentally changed in the two following decades, but Barbrook and Cameron’s biting criticism is still highly relevant. Their analysis and questioning of the economic and political agenda of the internet utopia and its prophets remain shocking and provocative. In an introduction written especially for this 20th anniversary edition Richard Barbrook takes a fresh look at the neoliberal hippies that shaped Silicon Valley and shows how their influence continues on to this day.</dc:description>
+<dc:subject></dc:subject>
+<dc:description></dc:description>
 
 
 

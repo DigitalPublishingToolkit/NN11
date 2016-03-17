@@ -72,7 +72,7 @@ book.md: clean $(allmarkdown)
 
 #  ./scripts/md_unique_footnotes.py $$i ; \
 
-book.epub: epub/metadata.xml epub/styles.epub.css epub/cover.png
+book.epub: book.md epub/metadata.xml epub/styles.epub.css epub/cover.png
 	cd md && pandoc \
 		--from markdown \
 		--to epub3 \

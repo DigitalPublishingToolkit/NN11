@@ -1,94 +1,24 @@
-Boris Beaude
-============
+---
+Pr-id: The Ends of the Internet
+P-id: Network Notebooks
+A-id: 11
+Type: essay
+Book-type: monography
+Anthology item: None
+Item-id: 11
+Article-title: The Ends of the Internet
+Article-status: accepted
+Author: Patrice Riemens
+Author-email:  ??
+Author-bio:??
+Abstract: ??
+Keywords: ?? 
+Rights: CC BY-NC 4.0
+...
 
-The Ends of the Internet
-========================
 
-### Colophon
 
-Translator: Patrice Riemens
-
-First published in French as Les fins d’Internet, Limoges, FYP Editions,
-2014.
-
-Copy-editing: Matt Beros
-
-Contents
---------
-
-### Chapter 1: From the Abolition of Space to the Emergence of Territory
-
-1.1 The Internet is a Real Space
-
-1.2 The Internet as a Place
-
-1.3 The Continuing Relevance of Territories
-
-1.4 Sharing Space, Sharing the Internet
-
-### Chapter 2: From the Freedom of Speech to the Global Panopticon
-
-2.1 The Internet as a Space of Freedom
-
-2.2 The Politics of Freedom
-
-2.3 The Limits of Free Speech
-
-### Chapter 3: From Collective Intelligence to Distributed Competence
-
-3.1 Democracy as Collective Intelligence in Action
-
-3.2 The Practical Requirements for Collective Intelligence
-
-3.3 The Limits to Participation
-
-3.4 Independence
-
-3.5 Aggregation
-
-3.6 Shared Meaning as a Political Issue
-
-### Chapter 4: From Free to Proprietary
-
-4.1 The Spatial Aspects of Economic Transactions
-
-4.2 The Logic of Free
-
-4.3 From Economies of Scale to Network Effects
-
-4.4 We are the Product
-
-4.5 Free and Rival Goods
-
-4.6 What is the Price of ‘Free’?
-
-### Chapter 5: From Decentralization to Hypercentrality
-
-5.1 The Tenets of Decentralization
-
-5.2 The Power of Choice by Default and the Status Quo
-
-5.3 Centrality and Network Effects
-
-5.4 From the Multiplicity of Territorial Places to the Singularity of
-Networked Places
-
-5.5 The Rationale of Network Consolidation
-
-### Chapter 6: From Resilience to Vulnerability 
-
-6.1 Network Strength and Node Vulnerability
-
-6.2 Network Imperialism
-
-6.3 The Vulnerability of the Net and the Precarity of Individuals
-
-### Conclusion: From Net Neutrality to the Neutralization of the Internet
-
-### References
-
-Introduction: The Abolition of Space
-------------------------------------
+# Introduction: The Abolition of Space
 
 The Internet has been with us for scarcely more than thirty years and
 now it is on the verge of disappearing. Originating in the fifties with
@@ -263,8 +193,7 @@ space too. Failing this the Internet will be destroyed by conflicting
 claims. May this book help the Internet survive singular interests and
 contribute to it remaining a truly global space for humanity.
 
-Chapter I: From the Abolition of Space to the Emergence of Territory
---------------------------------------------------------------------
+# Chapter I: From the Abolition of Space to the Emergence of Territory
 
 The Internet presents a paradox that is difficult to understand and that
 has resulted in many misconceptions. The Internet is both abolishing
@@ -281,7 +210,7 @@ explainable purely in terms of its technical, economic, or social
 components but first and foremost it remains a spatial innovation that
 attempts to limit the relevance of distance.
 
-### 1.1 The Internet Is a Real Space
+## 1.1 The Internet Is a Real Space
 
 It is essential to make a distinction between the societal origins of
 the Internet’s emergence and the consequences of its deployment on
@@ -372,7 +301,7 @@ dematerialization of music, films, and games. Money has increasingly
 become abstract information and no longer needs to take a material form
 in order to be exchanged.
 
-### 1.2 The Internet as a Place 
+## 1.2 The Internet as a Place 
 
 Today we must learn to understand the mechanisms operating between the
 material and the immaterial, between networks and territories, and
@@ -419,9 +348,7 @@ are spaces that are making a remarkably efficient use of the properties
 of the immaterial. That is the reason why they allow extremely high
 transmission speeds over long distances.
 
-### 
-
-### 1.3 The Continuing Relevance of Territories 
+## 1.3 The Continuing Relevance of Territories 
 
 The limitations of the Internet are many. Unlike light, the speed of
 transmission of relevant information within the context of social
@@ -461,7 +388,7 @@ represents either a constraint or a resource. Thus, the Internet
 constantly reminds us that territories, the dwelling spaces of our
 bodies, are plural.
 
-### 1.4 Sharing Space, Sharing the Internet
+## 1.4 Sharing Space, Sharing the Internet
 
 The ideal of digital ubiquity is faced with the challenge of established
 territories, which remain the basic spaces of our existence. These
@@ -501,8 +428,7 @@ ends of the Internet requires a deeper appreciation of its original aims
 and purpose in the context of their incompatibility with the present day
 political order.
 
-Chapter 2: From the Freedom of Speech to the Global Panopticon
---------------------------------------------------------------
+# Chapter 2: From the Freedom of Speech to the Global Panopticon
 
 In order to understand the difficulties of upholding the Internet’s
 global consistency and coherence, we should start by considering what
@@ -516,7 +442,7 @@ convergence of interests between the United States Department of Defense
 (DoD), which financed the project, and the numerous North American and
 European researchers, who contributed to its ongoing development.
 
-### 2.1 The Internet as a Space of Freedom
+## 2.1 The Internet as a Space of Freedom
 
 During the 1960s communism was still perceived as a threat and many
 engineers were convinced that society should apply the principles of
@@ -589,7 +515,7 @@ the Internet to confront problems it may face in terms of an internal
 logic which is indifferent to the existence of legitimate institutions
 permitted to regulate individual behavior.
 
-### 2.2 The Politics of Freedom
+## 2.2 The Politics of Freedom
 
 A detail John Perry Barlow might underestimate in his particular demand
 for the independence of cyberspace is that there is no such thing as a
@@ -662,9 +588,7 @@ from a society they do not feel at home in. But the Internet also
 appears as a lawless place, where people attempt to impose values and
 practices on each other.
 
-### 
-
-### 2.3 The Limits of Free Speech
+## 2.3 The Limits of Free Speech
 
 Freedom of expression is the issue that brings the various political
 organizations structuring our world into sharp conflict. Certainly, some
@@ -831,8 +755,7 @@ but that space still has to be invented. By the time this has actually
 taken place there is a real chance that the Internet will cease to
 exist.
 
-Chapter 3: From Collective Intelligence to Distributed Competence
------------------------------------------------------------------
+# Chapter 3: From Collective Intelligence to Distributed Competence
 
 The reason why freedom of expression takes on such importance as an
 issue is because it lies at the very core of the collective organization
@@ -857,7 +780,7 @@ individual; i.e. it means acknowledging individual fallibility while at
 the same time recognizing the power of insight residing in each one of
 us.
 
-### 3.1 Democracy as Collective Intelligence in Action
+## 3.1 Democracy as Collective Intelligence in Action
 
 Democracy is certainly one of the most powerful manifestations of the
 potential we discussed above. Democracy literally constitutes a
@@ -891,7 +814,7 @@ preferable to already established tyrannies.[^8] Democracies may well
 hold the instruments of their own destruction but they also possess
 those of their preservation.
 
-### 3.2 The Practical Requirements for Collective Intelligence
+## 3.2 The Practical Requirements for Collective Intelligence
 
 Democracy as a large-scale experience of collective intelligence
 perfectly illustrates the difficulties encountered in fostering the
@@ -927,7 +850,7 @@ But now, after two decades of existence, it would seem that this
 potential to achieve confluence is reaching the same limits as the
 democratic process regularly encounters.
 
-### 3.3 The Limits to Participation
+## 3.3 The Limits to Participation
 
 As of today, almost one third of the world’s population is connected to
 the Internet. Historically, the Internet is probably the mode of
@@ -971,7 +894,7 @@ produced by a tiny minority of users who are not necessarily
 representative and who are solely motivated by the wish to participate
 in a collective endeavor.
 
-### 3.4 Independence
+## 3.4 Independence
 
 Delegating production without conditions is surely the main
 characteristic of *crowdsourcing.* Providing the opportunity for
@@ -1039,7 +962,7 @@ anonymity are becoming more evident by the day, whereas the Internet’s
 potential to allow for individual expression is usurped for the benefit
 of those who have the greatest mastery.
 
-### 3.5 Aggregation
+## 3.5 Aggregation
 
 Collective intelligence increasingly depends on the use of algorithms
 that exploit the digital traces of a number of individual actions in
@@ -1068,9 +991,7 @@ developing a ‘soft consensus’, averaging out differences and extreme
 customization with the concomitant risk of seeing privacy destroyed,
 stands the opacity of algorithms whose role is increasingly decisive.
 
-### 
-
-### 3.6 Shared Meaning as a Political Issue
+## 3.6 Shared Meaning as a Political Issue
 
 ‘Collective intelligence’ is an attractive turn of phrase but is
 nonetheless deeply problematic, starting with the very terms
@@ -1114,10 +1035,7 @@ important it is that the world emerges as one common political space for
 humanity. But it also underlines the Internet’s precarious position in a
 world that is not yet one society.
 
-### 
-
-Chapter 4: From Free to Proprietary
------------------------------------
+# Chapter 4: From Free to Proprietary
 
 Both freedom of expression and collective intelligence have much to do
 with the Internet’s characteristic spatiality. By simplifying the global
@@ -1142,9 +1060,7 @@ propriety-based economy to one based on access is not essential,
 especially when creators’ rights are trampled and privacy is sacrificed
 for the sake of dubious benefits.
 
-### 
-
-### 4.1 The Spatial Aspects of Economic Transactions
+## 4.1 The Spatial Aspects of Economic Transactions
 
 Since every economic transaction is also a form of communication, it is
 not surprising that the economy is influenced by the expansion of the
@@ -1176,7 +1092,7 @@ the economy as a whole. In this sense Amazon might well be the most
 striking example of the complex coupling of the material and the
 immaterial in the service of economic transactions.
 
-### 4.2 The Logic of Free
+## 4.2 The Logic of Free
 
 The generalization of ‘free’ remains puzzling. Visibility and contact
 may have been greatly simplified but does this justify that most
@@ -1202,7 +1118,7 @@ shrewdly profiting on its symbolic appeal. This is because a price tag,
 however small, immediately puts a clear restraint on the chance of an
 exchange occurring.
 
-### 4.3 From Economies of Scale to Network Effects
+## 4.3 From Economies of Scale to Network Effects
 
 The ubiquity of ‘free’ on the Internet is the outcome of many factors
 nurturing the emergence of a gift economy. Considering the cost of
@@ -1227,7 +1143,7 @@ article, song, or film is almost nothing. This tendency to introduce
 such large economies of scale has reshaped the economy of ‘free’ by
 radically cutting down the distribution cost of creative works.
 
-### 4.4 We Are the Product 
+## 4.4 We Are the Product 
 
 Our service economy is also transformed when encountering such
 opportunities. The advertising industry is the most demonstrative in
@@ -1273,7 +1189,7 @@ amounts to a cost of US\$37 per user. In this context ‘free’ can only be
 understood as a means not as an end. It is the ultimate ends of these
 exchanges that really need to be understood.
 
-### 4.5 Free and Rival Goods
+## 4.5 Free and Rival Goods
 
 The principle of ‘free’ on the Internet is supported by a large number
 of people who believe it represents the ultimate expression of freedom
@@ -1347,9 +1263,8 @@ of social media and crowd-sourcing platforms? Do patents on software
 actually foster innovation? Finally, what does the ownership of a
 non-rival resource actually imply?
 
-### 
 
-### 4.6 What is the Price of ‘Free’?
+## 4.6 What is the Price of ‘Free’?
 
 The ambiguous nature of gratis is due to the way it can be both a vector
 of freedom and one of dispossession. When talking about ‘free’ it is
@@ -1509,8 +1424,7 @@ powerful nations of the world, notably the United States but also the UK
 and France, are actively pursuing a recovery of their online national
 sovereignty and the Internet will not remain unaffected.
 
-Chapter 5: From Decentralization to Hypercentrality
----------------------------------------------------
+# Chapter 5: From Decentralization to Hypercentrality
 
 Scarcely twenty years after its commercial development and expansion,
 the Internet’s aspiration to be a forerunner of diversity, plurality and
@@ -1540,7 +1454,7 @@ around various legal and financial frameworks to their advantage and
 avoid the potentially less favorable national, economic and political
 influences.
 
-### 5.1 The Tenets of Decentralization
+## 5.1 The Tenets of Decentralization
 
 The functional centrality we now witness in the Internet is completely
 at odds with the original features of the project as it was envisaged in
@@ -1574,7 +1488,7 @@ are able to take advantage of these new forms of centralities. Occupying
 a central place is a major asset, since such a key position can only be
 challenged by severe disruptions of existing technologies and practices.
 
-### 5.2 The Power of Choice by Default and the Status Quo
+## 5.2 The Power of Choice by Default and the Status Quo
 
 One of the simplest methods to achieve centrality was used in the
 beginning of the 1990s by many access providers. This was at the dawn of
@@ -1618,9 +1532,8 @@ to increased centralization against the customers’ interests, as is the
 case with iOS or Android for mobile phones, Windows and Mac OS for
 operating systems, Firefox or Chromes for navigators, etc.
 
-### 
 
-### 5.3 Centrality and Network Effects
+## 5.3 Centrality and Network Effects
 
 The most powerful element to achieving centrality comes from the network
 effect. Through default choice, status quo and gratis, the number of
@@ -1636,8 +1549,8 @@ distance but which would be wearisome to keep active through other
 mediums such as telephone, mail, or face-to-face. On the other hand a
 critique of social media based on the work by the British anthropologist
 and evolutionary psychologist Robin Dunbar, suggests that the highest
-number of relationships a human being can maintain is somewhere around
-150. This theory is based on a comparative analysis of the relative size
+number of relationships a human being can maintain is somewhere around 150.
+This theory is based on a comparative analysis of the relative size
 of the neocortex and is corroborated by the remarkably consistent
 average group size of 148.4 individuals in modern hunter-gather
 societies.[^31]
@@ -1654,7 +1567,7 @@ network effect is so crucial to any service operating on the Internet.
 It is a space with a near-unlimited potential for centrality; an idea
 some corporate actors have understood all too well.
 
-### 5.4 From the Multiplicity of Territorial Places to the Singularity of Networked Places 
+## 5.4 From the Multiplicity of Territorial Places to the Singularity of Networked Places 
 
 Understanding the rationale of hypercentrality demands a good grasp of
 the particular properties of networked spaces. The concentration of a
@@ -1702,7 +1615,7 @@ benefiting from a positive feedback loop that is extremely detrimental
 to other competing sites lagging behind in network effect, visibility
 and centrality accretion.
 
-### 5.5 The Rationale of Network Consolidation
+## 5.5 The Rationale of Network Consolidation
 
 What makes hypercentrality such a noteworthy factor is that it
 intensifies the features of centrality to an extreme degree. Once
@@ -1809,8 +1722,7 @@ previous Internet standard were, e.g. email and the World Wide Web.
 Otherwise a radical partitioning will be unavoidable as hypercentrality
 leads up to a breaking point.
 
-Chapter 6: From Resilience to Vulnerability
--------------------------------------------
+# Chapter 6: From Resilience to Vulnerability
 
 Ultimately we are witnessing the end of the Internet’s resilience as its
 nodes become ever more vulnerable. The Internet was developed with a
@@ -1829,7 +1741,7 @@ infrastructure but also endangering individuals. Secondly, it appears
 that network intrusion expertise is very unevenly distributed, revealing
 the existence of ever more blatant, imperialist strategies.
 
-### 6.1 Network Strength and Node Vulnerability
+## 6.1 Network Strength and Node Vulnerability
 
 The success of the Internet makes its resources become increasingly
 attractive for exploitation. As more of our activities take place online
@@ -1871,7 +1783,7 @@ meetings where the stakes are high is a good illustration of this state
 of affairs. Spies must now either resort to more conventional and
 onerous techniques or develop more sophisticated cyber methods.
 
-### 6.2 Network Imperialism
+## 6.2 Network Imperialism
 
 This situation is disturbing because hackers are far from the only
 groups to exploit these vulnerabilities. On the contrary, many hackers
@@ -1930,7 +1842,7 @@ core of the American legal system. It is therefore not surprising that
 it is being invoked to question the constitutional legitimacy of NSA’s
 ongoing surveillance operations.
 
-### 6.3 The Vulnerability of the Net and the Precarity of Individuals
+## 6.3 The Vulnerability of the Net and the Precarity of Individuals
 
 The vulnerability of the Net now also means the vulnerability of the
 individual. Debates about striking a balance between security and
@@ -1987,10 +1899,8 @@ and the NSA.[^36] All these actors claim unfettered access to user
 information makes the world a better place. Which raises the question;
 which world are we talking about?
 
-### 
 
-Conclusion: From Net Neutrality to the Neutralization of the Internet
----------------------------------------------------------------------
+# Conclusion: From Net Neutrality to the Neutralization of the Internet
 
 The Internet was supposed to abolish distances, advance freedom of
 expression, enhance collective intelligence, foster the potential for
@@ -2014,9 +1924,7 @@ content available on iTunes, Netflix, YouTube or Spotify varies from one
 country to the next and in some cases is not available at all. To avoid
 violations of the Internet’s integrity an increasing number of
 individuals use technique similar to those of the Chinese and Iranian
-Intranet users in order to gain access to Facebook or
-
-Twitter.
+Intranet users in order to gain access to Facebook or Twitter.
 
 Freedom of expression has come increasingly under threat. Anonymity is
 becoming impossible in many countries and immense machineries of
@@ -2235,13 +2143,11 @@ the perfect public place to rise to this challenge; it is an ideal but
 also fragile space that we must never cease to cherish, share and
 protect together.
 
-References
-----------
+
+# References
 
 Anderson, Chris. *Free: The Future of Radical Price,* New York:
-Hyperion,
-
-2009.
+Hyperion, 2009.
 
 Ariely, Dan, Kristina Shampanier and Nina Mazar. ‘Zero as a Special
 Price: The True Value of Free Products’, *Marketing Science,* (November,
@@ -2249,11 +2155,11 @@ Price: The True Value of Free Products’, *Marketing Science,* (November,
 
 Barlow, John Perry. *A Declaration of the Independence of Cyberspace*, 8
 February 1996,
-&lt;https://projects.eff.org/\~barlow/Declaration-Final.html&gt;
+<https://projects.eff.org/~barlow/Declaration-Final.html>
 
 Bazan, Elizabeth B. ‘The Foreign Intelligence Surveillance Act: An
 Overview of Selected Issue’, *Congressional Research Service,* 7 July
-2008, &lt;https://fas.org/sgp/crs/intel/RL34279.pdf&gt;.
+2008, <https://fas.org/sgp/crs/intel/RL34279.pdf>.
 
 Beaude, Boris. *Internet, Changer l’espace, Changer la Société: Les
 logiques Contemporaines de Synchorisation.* Limoges: FYP Éditions, 2012.
@@ -2263,36 +2169,36 @@ Freedom’, *CNN,* 30 November 2012.
 
 Elgan, Mike. ‘Google’s Business Model: YOU Are the Product’,
 *Datamation,* 5 February 2009,
-&lt;http://www.datamation.com/columns/executive\_tech/article.php/3801006/Googles-Business-Model-YOU-Are-the-Product.htm&gt;.
+<http://www.datamation.com/columns/executive_tech/article.php/3801006/Googles-Business-Model-YOU-Are-the-Product.htm>.
 
 Eric Schmidt interview with Maria Bartiromo on CNBC, ‘Inside the Mind of
 Google’, 2009,
-&lt;http://www.huffingtonpost.com/2009/12/07/google-ceo-on-privacy-if\_n\_383105.html&gt;.
+<http://www.huffingtonpost.com/2009/12/07/google-ceo-on-privacy-if_n_383105.html>.
 
 Foster, John Bellamy and Robert W. McChesney. ‘Surveillance Capitalism:
 Monopoly-Finance Capital, the Military-Industrial Complex, and the
 Digital Age’, *Monthly Review,* Vol. 66, Issue 3, 2014,
-&lt;http://monthlyreview.org/2014/07/01/surveillance-capitalism/&gt;.
+<http://monthlyreview.org/2014/07/01/surveillance-capitalism/>.
 
 Ginsberg, Jeremy and Matt Mohebbi. *Google Official Blog,* 11 November
 2008,
-&lt;https://googleblog.blogspot.co.il/2008/11/tracking-flu-trends.html&gt;.
+<https://googleblog.blogspot.co.il/2008/11/tracking-flu-trends.html>.
 
 ‘Google’s Income Statement Information’, *Investor Relations,*
-&lt;http://investor.google.com/financial/tables.html&gt;.
+<http://investor.google.com/financial/tables.html>.
 
 Google’s ‘Transparency Report’,
-&lt;http://www.google.com/transparencyreport/&gt;.
+<http://www.google.com/transparencyreport/>.
 
 Hill, R.A. and R.I.M. Dunbar. ‘Social Network Size in Humans’, *Human
 Nature,* (March, 2003): 53-72.
 
 *Internet World Stats: Usage and Population Statistics,*
-&lt;http://www.internetworldstats.com/stats.htm&gt;
+<http://www.internetworldstats.com/stats.htm>
 
 Jaquith, Waldo. ‘Chris Anderson’s Free Contains What is Apparently
 Plagiarized Text’, *Waldo Jaquith Blog,* 23 June 2009,
-&lt;https://waldo.jaquith.org/blog/2009/06/chris-anderson-free/&gt;.
+<https://waldo.jaquith.org/blog/2009/06/chris-anderson-free/>.
 
 Lessig, Lawrence. *Free Culture: How Big Media Uses Technology and the
 Law to Lock Down Culture and Control Creativity*, New York: Penguin
@@ -2321,13 +2227,14 @@ University Press, 2008.
 
 Transcription of the 1789 Joint Resolution of Congress Proposing 12
 Amendments to the U.S. Constitution’. *National Archives,*
-&lt;http://www.archives.gov/exhibits/charters/bill\_of\_rights\_transcript.html&gt;.
+<http://www.archives.gov/exhibits/charters/bill_of_rights_transcript.html>.
 
 Wiener, Norbert. *Cybernetics: Or Control and Communication in the
 Animal and the Machine*, Cambridge, Massachusetts: MIT Press, 1948.
 
 Woolsey, James R. ‘Why We Spy on Our Allies’, *Wall Street Journal,* 17
-March 2000, &lt;http://www.wsj.com/articles/SB95326824311657269&gt;.
+March 2000, <http://www.wsj.com/articles/SB95326824311657269>.
+
 
 [^1]: Norbert Wiener, *Cybernetics: Or Control and Communication in the
     Animal and the Machine*, Cambridge, Massachusetts: MIT Press, 1948.
@@ -2337,7 +2244,7 @@ March 2000, &lt;http://www.wsj.com/articles/SB95326824311657269&gt;.
 
 [^3]: John Perry Barlow, *A Declaration of the Independence of
     Cyberspace*, 8 February 1996,
-    &lt;https://projects.eff.org/\~barlow/Declaration-Final.html&gt;.
+    <https://projects.eff.org/~barlow/Declaration-Final.html>.
 
 [^4]: John Perry Barlow, *A Declaration of the Independence of
     Cyberspace*.
@@ -2347,7 +2254,7 @@ March 2000, &lt;http://www.wsj.com/articles/SB95326824311657269&gt;.
 
 [^6]: ‘Transcription of the 1789 Joint Resolution of Congress Proposing
     12 Amendments to the U.S. Constitution’, *National Archives,*
-    &lt;http://www.archives.gov/exhibits/charters/bill\_of\_rights\_transcript.html&gt;.
+    <http://www.archives.gov/exhibits/charters/bill_of_rights_transcript.html>.
 
 [^7]: Vinton Cerf, ‘Father of the Internet: Why We Must Fight For Its
     Freedom’, *CNN*, 30 November 2012.
@@ -2357,7 +2264,7 @@ March 2000, &lt;http://www.wsj.com/articles/SB95326824311657269&gt;.
 
 [^9]: See: Pierre Levy, *Collective Intelligence: Mankind’s Emerging
     World in Cyberspace*, trans. Robert Bononno, New York: Perseus
-    Books, 1999, Francis Pisani and Dominique Piotet*, La Alquimia de
+    Books, 1999, Francis Pisani and Dominique Piotet, *La Alquimia de
     las Multitudes*, Barcelona: Paidós, 2009 and James Surowiecki, *The
     Wisdom of Crowds,* New York: Doubleday, 2004.
 
@@ -2370,17 +2277,15 @@ March 2000, &lt;http://www.wsj.com/articles/SB95326824311657269&gt;.
     Éditions, 2012.
 
 [^11]: See: *Internet World Stats: Usage and Population Statistics,*
-    &lt;http://www.internetworldstats.com/stats.htm&gt;.
+    <http://www.internetworldstats.com/stats.htm>.
 
 [^12]: For recent English and French Wikipedia statistics see
     respectively
-
-    &lt;https://stats.wikimedia.org/EN/TablesWikipediaEN.htm&gt; and
-
-    &lt;https://stats.wikimedia.org/EN/TablesWikipediaFR.htm&gt;.
+    <https://stats.wikimedia.org/EN/TablesWikipediaEN.htm> and
+    <https://stats.wikimedia.org/EN/TablesWikipediaFR.htm>.
 
 [^13]: For example the firm Wiki-PR see:
-    &lt;http://www.wiki-pr.com/&gt;.
+    <http://www.wiki-pr.com/>.
 
 [^14]: Distribution, valorization, coordination and promotion are the
     four characteristics of collective intelligence postulated by Pierre
@@ -2397,19 +2302,19 @@ March 2000, &lt;http://www.wsj.com/articles/SB95326824311657269&gt;.
 [^17]: In 2013 Google’s revenue was in excess of US \$50 billion, mainly
     due to advertising income. See: ‘Google’s Income Statement
     Information’, *Investor Relations,*
-    &lt;http://investor.google.com/financial/tables.html&gt;.
+    <http://investor.google.com/financial/tables.html>.
 
 [^18]: For example see Google’s flu epidemics prediction engine based on
     trends in users searches on the illness. See: Jeremy Ginsberg and
     Matt Mohebbi, *Google Official Blog,* 11 November 2008,
-    &lt;https://googleblog.blogspot.co.il/2008/11/tracking-flu-trends.html&gt;.
+    <https://googleblog.blogspot.co.il/2008/11/tracking-flu-trends.html>.
 
 [^19]: Razor giant Gillette is widely acknowledged as the pioneer of
     this approach, introducing the first disposable blades in 1903.
 
 [^20]: Mike Elgan, ‘Google’s Business Model: YOU Are the Product’,
     *Datamation,* 5 February 2009,
-    &lt;http://www.datamation.com/columns/executive\_tech/article.php/3801006/Googles-Business-Model-YOU-Are-the-Product.htm&gt;.
+    <http://www.datamation.com/columns/executive_tech/article.php/3801006/Googles-Business-Model-YOU-Are-the-Product.htm>.
 
 [^21]: There are rare exceptions, for example when a site happens to
     have a high amount of traffic at one given time and a server
@@ -2418,11 +2323,9 @@ March 2000, &lt;http://www.wsj.com/articles/SB95326824311657269&gt;.
     transmitted as about the capacity of the vector of transmission.
 
 [^22]: Chris Anderson, *Free: The Future of Radical Price,* New York:
-    Hyperion,
-
-    2009\. Also see: Waldo Jaquith, ‘Chris Anderson’s Free Contains What is
+    Hyperion, 2009. Also see: Waldo Jaquith, ‘Chris Anderson’s Free Contains What is
     Apparently Plagiarized Text’, *Waldo Jaquith Blog,* 23 June 2009,
-    &lt;https://waldo.jaquith.org/blog/2009/06/chris-anderson-free/&gt;.
+    <https://waldo.jaquith.org/blog/2009/06/chris-anderson-free/>.
 
 [^23]: Dan Ariely, Kristina Shampanier and Nina Mazar, ‘Zero as a
     Special Price: The True Value of Free Products’, *Marketing
@@ -2466,19 +2369,19 @@ March 2000, &lt;http://www.wsj.com/articles/SB95326824311657269&gt;.
     Robert W. McChesney, ‘Surveillance Capitalism: Monopoly-Finance
     Capital, the Military-Industrial Complex, and the Digital Age’,
     *Monthly Review,* Vol. 66, Issue 3, 2014,
-    &lt;http://monthlyreview.org/2014/07/01/surveillance-capitalism/&gt;.
+    <http://monthlyreview.org/2014/07/01/surveillance-capitalism/>.
 
 [^33]: In March 2000, James Woolsey, CIA’s former director, told the
     press that spying on allies was justified by their tendency to
     engage in corrupt practices to the detriment of more honest American
     firms. See: James R. Woolsey, ‘Why We Spy on Our Allies’, *Wall
     Street Journal,* 17 March 2000,
-    &lt;http://www.wsj.com/articles/SB95326824311657269&gt;.
+    <http://www.wsj.com/articles/SB95326824311657269>.
 
 [^34]: See: Elizabeth B. Bazan. ‘The Foreign Intelligence Surveillance
     Act: An Overview of Selected Issue’, *Congressional Research
     Service,* 7 July 2008,
-    &lt;https://fas.org/sgp/crs/intel/RL34279.pdf&gt;.
+    <https://fas.org/sgp/crs/intel/RL34279.pdf>.
 
 [^35]: ‘The right of the people to be secure in their persons, houses,
     papers, and effects, against unreasonable searches and seizures,
@@ -2490,11 +2393,11 @@ March 2000, &lt;http://www.wsj.com/articles/SB95326824311657269&gt;.
     See: ‘Transcription of the 1789 Joint Resolution of Congress
     Proposing 12 Amendments to the U.S. Constitution’, *National
     Archives,*
-    &lt;http://www.archives.gov/exhibits/charters/bill\_of\_rights\_transcript.html&gt;.
+    <http://www.archives.gov/exhibits/charters/bill_of_rights_transcript.html>.
 
 [^36]: See Eric Schmidt interview with Maria Bartiromo on CNBC, ‘Inside
     the Mind of Google’, 7 December 2009,
-    &lt;http://www.huffingtonpost.com/2009/12/07/google-ceo-on-privacy-if\_n\_383105.html&gt;.
+    <http://www.huffingtonpost.com/2009/12/07/google-ceo-on-privacy-if_n_383105.html>.
 
 [^37]: See Google’s ‘Transparency report’,
-    &lt;http://www.google.com/transparencyreport/&gt;.
+    <http://www.google.com/transparencyreport/>.
