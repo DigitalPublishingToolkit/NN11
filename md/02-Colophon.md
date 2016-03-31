@@ -29,8 +29,8 @@ freely downloadable from:**
 <span class="white">This publication is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-sa/4.0/>.</span>
 
 <span class="white">Amsterdam, April 2016  
-ISBN ??????????????? (print)  
-ISBN ??????????????? (EPUB)</span>
+ISBN 9789492302052 (print)  
+ISBN 9789492302069 (EPUB)</span>
 
 ![](imgs/file1.jpg)
 ![](imgs/file2.jpg)
@@ -44,10 +44,10 @@ ISBN ??????????????? (EPUB)</span>
 <span class="white">PREVIOUSLY PUBLISHED NETWORK NOTEBOOKS:</span>
 
 <span class="white">**Network Notebooks 10**<br/>
-  Richard Barbrook with Andy Cameron, The Internet Revolution: From Dotcom Capitalism to Cybernetic Communism</span>
+  Richard Barbrook with Andy Cameron, The Internet Revolution, 2015.</span>
 
 <span class="white">**Network Notebooks 09**<br/>
-  Michael Seemann, Digital Tailspin: Ten Rules for the Internet After Snowden.</span>
+  Michael Seemann, Digital Tailspin: Ten Rules for the Internet After Snowden, 2015.</span>
 
 <span class="white">**Network Notebooks 08**  
   Brooke Wendt, The Allure of the Selfie: Instagram and the New Self Portrait, 2014.</span>

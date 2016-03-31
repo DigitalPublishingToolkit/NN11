@@ -8,10 +8,10 @@ Anthology item: None
 Item-id: 11
 Article-title: The Ends of the Internet
 Article-status: accepted
-Author: Patrice Riemens
+Author: Boris Beaude
 Author-email:  ??
-Author-bio:??
-Abstract: ??
+Author-bio: Boris Beaude is a senior research fellow with the Chôros research lab at the École Polytechnique Fédérale de Lausanne. His research focuses on the spatial dimensions of telecommunication and the spatial context for social interaction. He is particularly interested in the Internet as a space of production, collaboration and coexistence.
+Abstract: *The Ends of the Internet* is an investigation into all the reasons why the Internet, which has been with us for over thirty years, is now on the verge of disappearing. Originally conceived as a space of freedom, the Internet has become the world's largest panopticon and freedom of expression is subject to surveillance and supervision on an unprecedented scale. The utopian theories of collective intelligence have been undermined by a growing tendency towards commercial exploitation. A small group of companies profit from the majority of online activities. Even the robustness of the Internet itself is now at stake, with vulnerabilities increasing and many organizations, governments and individuals targeted by malicious cyber attacks.
 Keywords: ?? 
 Rights: CC BY-NC 4.0
 ...
@@ -61,14 +61,14 @@ researchers in the Cybernetics movement, societies that had become
 seriously dysfunctional were lacking the effective ‘feedback loops’
 required to maintain stability in the social system.[^1] When confronted
 with dramatic developments such societies did not have adequate
-‘feed-back’ to sufficiently respond to the situation.
+‘feedback’ to sufficiently respond to the situation.
 
 Wiener’s conclusion was that any obstruction to the free circulation of
 information risked irreversible destabilization. Therefore the Internet
 came to be seen as a technical solution to the problem at hand since it
 makes it difficult to censure or control information.
 
-A few elementary building blocks had been already been placed in the
+A few elementary building blocks had already been placed in the
 renewal of one of society’s major foundations: the social bond. Indeed,
 the Internet has effectively transformed the practical terms of
 interaction. The spatial distance remains, but its nature has changed.
@@ -88,7 +88,7 @@ expertise scattered around particular issues, i.e. online encyclopedias,
 software development, discussion forums, funding drives, political
 mobilization, etc. The near-zero cost of transmission and reproduction
 of information has disrupted the economy of intangible resources. Free
-access has become the norm. The circulation of cultural good has reached
+access has become the norm. The circulation of cultural goods has reached
 unparalleled levels.
 
 The Internet is a powerful driver of innovation, fueled by its unique
@@ -96,7 +96,7 @@ culture of openness. This openness is characterized by free access to
 the sources of its strategic tools and in the documentation of those
 components that are vital to its free usage. The Internet’s
 decentralized structure has resulted in the proliferation of diverse
-public initiatives and associative, private, individual, and collective
+public initiatives and associative, private, individual and collective
 enterprises. Any intermediary wishing to impose itself at the expense of
 more efficient forms of mediation runs the risk of either being bypassed
 or discarded altogether. Twenty years after its commercial development,
@@ -131,7 +131,7 @@ In their desire to make the world a common space for all humanity, the
 early Internet pioneers underestimated both the fragility of societies
 and the strength of opposing forces. As societies hold diverse values
 certain parties are demanding that the Internet increasingly conforms to
-their own private interests. We now see this confrontation of public,
+their own private interests. We now see this confrontation of public and
 private, individual and collective claims steadily growing and we have
 to come to terms with the fact that the Internet will change profoundly.
 The Internet was largely built on the basis of North American values;
@@ -169,7 +169,7 @@ is one and only one Internet and that is has become so commonplace does
 not detract from its uniqueness. The Internet is not like a radio or
 furniture. The ‘Internet’ is a proper name, just like ‘Norway’ or ‘The
 European Union’. Whatever we do to alter the Internet, however locally,
-effects the Internet as a whole. Moreover, the end of the Internet would
+affects the Internet as a whole. Moreover, the end of the Internet would
 not mean the emergence of ‘micro internets’. Such a term would make no
 sense. There is a more sinister term to describe it: the ‘intranet’. The
 ‘intranet’ is a generic term and there are many intranets already.
@@ -188,7 +188,7 @@ Today it is essential that contemporary societies engage in a broad
 debate about what should be done in this renewed space and to establish
 the rules of coexistence that will make it possible to accommodate the
 numerous practices now emerging. A legitimate policy must arbitrate
-between the developing possibilities to make the Internet a legitimate
+between the developing possibilities so as to make the Internet a legitimate
 space too. Failing this the Internet will be destroyed by conflicting
 claims. May this book help the Internet survive singular interests and
 contribute to it remaining a truly global space for humanity.
@@ -197,16 +197,16 @@ contribute to it remaining a truly global space for humanity.
 
 The Internet presents a paradox that is difficult to understand and that
 has resulted in many misconceptions. The Internet is both abolishing
-space yet at the same time, constituting a space itself. Common language
+space yet at the same time constituting a space itself. Common language
 betrays the close semantic proximity of the Internet and space: we speak
 of ‘going on the Internet, of a ‘navigator’ (the technical term for a
 browser), we ‘surf’ the Internet, where there are ‘sites’, ‘addresses’,
-firewalls, and paywalls, and we talk about ‘virtual spaces’ in general.
+firewalls and paywalls, and we talk about ‘virtual spaces’ in general.
 Immediately from its beginnings the Internet was considered in utopian
 terms. Coming after the invention of the telegraph and the telephone,
 the Internet meets the growing expectations of being able to make
 contact over increasingly remote distances. The Internet may be
-explainable purely in terms of its technical, economic, or social
+explainable purely in terms of its technical, economic or social
 components but first and foremost it remains a spatial innovation that
 attempts to limit the relevance of distance.
 
