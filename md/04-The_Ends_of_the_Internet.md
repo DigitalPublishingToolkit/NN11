@@ -12,7 +12,7 @@ Author: Boris Beaude
 Author-email:  ??
 Author-bio: Boris Beaude is a senior research fellow with the Chôros research lab at the École Polytechnique Fédérale de Lausanne. His research focuses on the spatial dimensions of telecommunication and the spatial context for social interaction. He is particularly interested in the Internet as a space of production, collaboration and coexistence.
 Abstract: *The Ends of the Internet* is an investigation into all the reasons why the Internet, which has been with us for over thirty years, is now on the verge of disappearing. Originally conceived as a space of freedom, the Internet has become the world's largest panopticon and freedom of expression is subject to surveillance and supervision on an unprecedented scale. The utopian theories of collective intelligence have been undermined by a growing tendency towards commercial exploitation. A small group of companies profit from the majority of online activities. Even the robustness of the Internet itself is now at stake, with vulnerabilities increasing and many organizations, governments and individuals targeted by malicious cyber attacks.
-Keywords: ?? 
+Keywords: Boris Beaude, internet, communication, space, social, web, production, collaboration, coexistence, research, history, politics, whistle blowers, data, WikiLeaks, surveillance, collectivity, French theory, online, hypercapitalism, governance, cyberspace 
 Rights: CC BY-NC 4.0
 ...
 
