@@ -8,7 +8,7 @@ Anthology item: None
 Item-id: 11
 Article-title: The Ends of the Internet
 Article-status: accepted
-Author: Boris Beaude
+Author: Boris Beaude, translation Patrice Riemens
 Author-email:  ??
 Author-bio: Boris Beaude is a senior research fellow with the Chôros research lab at the École Polytechnique Fédérale de Lausanne. His research focuses on the spatial dimensions of telecommunication and the spatial context for social interaction. He is particularly interested in the Internet as a space of production, collaboration and coexistence.
 Abstract: *The Ends of the Internet* is an investigation into all the reasons why the Internet, which has been with us for over thirty years, is now on the verge of disappearing. Originally conceived as a space of freedom, the Internet has become the world's largest panopticon and freedom of expression is subject to surveillance and supervision on an unprecedented scale. The utopian theories of collective intelligence have been undermined by a growing tendency towards commercial exploitation. A small group of companies profit from the majority of online activities. Even the robustness of the Internet itself is now at stake, with vulnerabilities increasing and many organizations, governments and individuals targeted by malicious cyber attacks.
@@ -42,7 +42,7 @@ At present, the growth and scope of the Internet appears limitless. Yet,
 little more than ten years ago, Skype, iTunes, Facebook, Google Maps,
 Flickr, YouTube, Twitter, WikiLeaks, Dropbox, Spotify, Reddit and
 Instagram did not exist. Earlier developments such as Google, Paypal,
-BitTorrent, Wikipedia, Amazon, eBay, and public access to the Internet
+BitTorrent, Wikipedia, Amazon and eBay, and public access to the Internet
 are still less than twenty years old. In the Internet’s early days
 bandwidth, contents and services were very limited, and the Internet was
 only accessible to a minority of people whose professional activities
@@ -193,7 +193,7 @@ space too. Failing this the Internet will be destroyed by conflicting
 claims. May this book help the Internet survive singular interests and
 contribute to it remaining a truly global space for humanity.
 
-# Chapter I: From the Abolition of Space to the Emergence of Territory
+# I. From the Abolition of Space to the Emergence of Territory
 
 The Internet presents a paradox that is difficult to understand and that
 has resulted in many misconceptions. The Internet is both abolishing
@@ -297,7 +297,7 @@ and dissemination of information has become the basis of many of our
 economic activities. To date, we devote a quarter of our lifespan to
 education, i.e. to the transmission of the information we deem to be
 useful for our development. Our free time also is influenced by the
-dematerialization of music, films, and games. Money has increasingly
+dematerialization of music, films and games. Money has increasingly
 become abstract information and no longer needs to take a material form
 in order to be exchanged.
 
@@ -428,7 +428,7 @@ ends of the Internet requires a deeper appreciation of its original aims
 and purpose in the context of their incompatibility with the present day
 political order.
 
-# Chapter 2: From the Freedom of Speech to the Global Panopticon
+# 2. From the Freedom of Speech to the Global Panopticon
 
 In order to understand the difficulties of upholding the Internet’s
 global consistency and coherence, we should start by considering what
@@ -464,7 +464,7 @@ only mode of communication able to communicate individual information at
 considerable speed and via vast distances at a near zero cost. After the
 era of the printing press, radio and television, the Internet stimulated
 a far-reaching renewal of the public sphere, giving citizens the
-opportunity to discuss their past, present, and future.
+opportunity to discuss their past, present and future.
 
 In these early days the Internet was considered as a continuation of the
 Enlightenment tradition, since it enabled individuals to form their own
@@ -592,7 +592,7 @@ practices on each other.
 
 Freedom of expression is the issue that brings the various political
 organizations structuring our world into sharp conflict. Certainly, some
-nations-states such as North Korea, and until recently Burma, do not
+nation-states such as North Korea and until recently Burma, do not
 place any value on free speech. Other nations, like the US, have made it the cornerstone of their deliberative political
 system and consider it among their most fundamental values. But in exercising these freedoms, numerous restrictions always apply
 when other values such as safeguarding the security of the state or
@@ -750,7 +750,7 @@ but that space still has to be invented. By the time this has actually
 happened there is a real chance that the Internet will cease to
 exist.
 
-# Chapter 3: From Collective Intelligence to Distributed Competence
+# 3. From Collective Intelligence to Distributed Competence
 
 The reason why freedom of expression takes on such importance as an
 issue is because it lies at the very core of the collective organization
@@ -1030,7 +1030,7 @@ important it is that the world emerges as one common political space for
 humanity. But it also underlines the Internet’s precarious position in a
 world that is not yet one society.
 
-# Chapter 4: From Free to Proprietary
+# 4. From Free to Proprietary
 
 Both freedom of expression and collective intelligence have much to do
 with the Internet’s characteristic spatiality. By simplifying the global
@@ -1128,7 +1128,7 @@ their unitary costs, as the marginal cost of every unit produced after
 the first one dwindles. In the case of production and editing music or
 film, economies of scale is very substantial but conversely, so is the
 costs of their materialization as books, CDs and DVDs in terms of
-production, storage, and distribution.
+production, storage and distribution.
 
 The convergence between digital production and the development of the Internet has now resulted in near zero production costs. Once it has
 already been produced the cost of an additional digital copy of an
@@ -1224,7 +1224,7 @@ national legislations and is much more flexible than the traditional
 intellectual property systems.
 
 Creative Commons licenses protect the authorship of works, while at the
-same time making their usage, circulation, and modification much more
+same time making their usage, circulation and modification much more
 straightforward. Creative Commons licenses assigned copyleft and
 copyright to opposite ends of the spectrum of intellectual property
 rights and allowed the creators to specify
@@ -1413,7 +1413,7 @@ powerful nations of the world, notably the US but also the UK
 and France, are actively pursuing a recovery of their online national
 sovereignty and the Internet will not remain unaffected.
 
-# Chapter 5: From Decentralization to Hypercentrality
+# 5. From Decentralization to Hypercentrality
 
 Scarcely twenty years after its commercial development and expansion,
 the Internet’s aspiration to be a forerunner of diversity, plurality and
@@ -1704,7 +1704,7 @@ previous Internet standard were, e.g. email and the World Wide Web.
 Otherwise a radical partitioning will be unavoidable as hypercentrality
 leads up to a breaking point.
 
-# Chapter 6: From Resilience to Vulnerability
+# 6. From Resilience to Vulnerability
 
 Ultimately we are witnessing the end of the Internet’s resilience as its
 nodes become ever more vulnerable. The Internet was developed with a
@@ -1736,7 +1736,7 @@ attacks, 30,000 desktops at a major oil corporation hacked to the point
 of disabling its operations; malware that uses the camera on a personal
 computer for spying, Adobe discovering that a number of its apps’ code
 had been stolen, hackers breaking into the servers of *The New York
-Times*, *The Washington Post*, and *The Wall Street Journal* in order to
+Times*, *The Washington Post* and *The Wall Street Journal* in order to
 identify individual journalists, Gmail compromised by authoritarian
 regimes who hunt for political dissent, and finally the realization,
 even before Snowden, that all our communications are under surveillance
@@ -1745,7 +1745,7 @@ and recorded.
 Considering these well-documented examples we may conclude that our
 world has changed a lot, with privacy no longer protected and security
 even less so. The ubiquity of the Internet has enhanced our capacity to
-communicate, coordinate, and coproduce but at the same time this blanket
+communicate, coordinate and coproduce but at the same time this blanket
 connectivity exposes us to new vulnerabilities. Individuals, businesses
 and governments are now carefully exploiting these vulnerabilities to an
 extent that we can only guess at.
@@ -1887,7 +1887,7 @@ configuration; but humanity is so diverse that it will not allow the
 Internet to remain unaltered.
 
 New boundaries tend to emerge everywhere. By now, the United States, the
-United Kingdom, and France, among other countries, are forcing search
+United Kingdom and France, among other countries, are forcing search
 engines to suppress URLs and ISPs that lead to spaces which are in
 breach of their respective legislations.[^37] The outcome is different
 search results to conform to cultural norms and local regulations. The
