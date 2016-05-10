@@ -101,7 +101,7 @@ enterprises. Any intermediary wishing to impose itself at the expense of
 more efficient forms of mediation runs the risk of either being bypassed
 or discarded altogether. Twenty years after its commercial development,
 the Internet appears to be at the peak of its potential. Its robustness
-has been proven as it has adapted to a much a higher growth than its
+has been proven as it has adapted a much higher growth than its
 developers had imagined.
 
 But in recent years, the Internet’s founding principles have been
@@ -193,7 +193,7 @@ space too. Failing this the Internet will be destroyed by conflicting
 claims. May this book help the Internet survive singular interests and
 contribute to it remaining a truly global space for humanity.
 
-# I. From the Abolition of Space to the Emergence of Territory
+# Chapter 1. From the Abolition of Space to the Emergence of Territory
 
 The Internet presents a paradox that is difficult to understand and that
 has resulted in many misconceptions. The Internet is both abolishing
@@ -286,8 +286,7 @@ networks create discontinuities and rearrange the relative loci of the
 realities that shape a territory. Roads and railways constitute
 preferential links between places with a kind of material stability –
 e.g. schools, hospitals, housing estates – which demands mobility to be
-organized according to what may be mobilized – such as bodies, food, books,
-building materials, etc.
+organized according to what may be mobilized – such as bodies, food, books, materials, etc.
 
 Despite the fact that material realities remain an important component
 in our daily lives, today our societies are becoming increasingly
@@ -333,8 +332,7 @@ territorial space would make sharing at any time possible, with contacts
 we choose, and independent of location? Which territorial space would
 allow us to view or listen to the archive of all audio-visual resources?
 
-Matter is difficult to shift around because it is composed of energy and
-mass. Displacing matter demands an amount of energy exponentially
+Matter is difficult to shift around because its mass. Displacing matter demands an amount of energy exponentially
 proportional to its mass. But light and electricity, the primary
 carriers of information over the Internet, are composed of energy
 circulating in electromagnetic form. They are waves flowing, ideally at
@@ -428,7 +426,7 @@ ends of the Internet requires a deeper appreciation of its original aims
 and purpose in the context of their incompatibility with the present day
 political order.
 
-# 2. From the Freedom of Speech to the Global Panopticon
+# Chapter 2. From the Freedom of Speech to the Global Panopticon
 
 In order to understand the difficulties of upholding the Internet’s
 global consistency and coherence, we should start by considering what
@@ -530,7 +528,7 @@ what is allowed or prohibited.
 
 Despite their effectiveness, the major government organizations of the
 Internet cannot pretend to be representative of all parties concerned.
-They lagged behind in recognizing non-romance languages, they did not
+They lagged behind in recognizing non-latin script, they did not
 propose any serious alternatives to the emergence of Google, Facebook
 or Twitter, and have done nothing to confront the mass surveillance of
 the Internet by the NSA and the intelligence services of many
@@ -619,7 +617,7 @@ expression is not framed within a strict remit. This also explains why,
 over the past few years, authoritarian regimes have gone out of their
 way to significantly attack the integrity of the Internet, restricting
 access, filtering contents and putting users under constant
-surveillance. ‘Reporters without Borders’ has repeatedly denounced such
+surveillance. *Reporters without Borders* has repeatedly denounced such
 practices in Bahrain, Vietnam, Syria, Iran and China. Moreover the Arab
 revolutions turned out to be less ideal than commentators originally
 suggested. It appeared that the Internet had indeed largely contributed
@@ -663,7 +661,7 @@ the media to keep classified information under wraps if that appeared
 necessary. But after the disclosure of documents on the wars in
 Afghanistan and Iraq, WikiLeaks have openly launched an attack on actual
 surveillance practices, exposing the complicity of many Western
-companies in these practices. Remarkably with a few exceptions the leaks
+companies. Remarkably with a few exceptions the leaks
 were not circulated in the mainstream media. It was only after Edward
 Snowden exposed the true extent of electronic surveillance to the public
 that the media picked up the story.
@@ -714,8 +712,7 @@ Cerf, one of the Internet’s founders, reminded us recently that Internet
 freedom is facing the same threat as publishing and broadcasting did in
 their time.[^7] The end of the Internet, as far as the freedom of
 expression is concerned, may be considered as one of the many motives of
-nation-states, as a decisive aspect of their approach to censorship and
-the manipulation of information.
+nation-states, in order to conform the Internet to their own values.
 
 We have to face the relatively simple dilemma, either the Internet
 follows existing national social contracts or it becomes in danger of
@@ -750,7 +747,7 @@ but that space still has to be invented. By the time this has actually
 happened there is a real chance that the Internet will cease to
 exist.
 
-# 3. From Collective Intelligence to Distributed Competence
+# Chapter 3. From Collective Intelligence to Distributed Capability
 
 The reason why freedom of expression takes on such importance as an
 issue is because it lies at the very core of the collective organization
@@ -786,8 +783,7 @@ and for the people’. Such a statement presupposes first and foremost
 that individuals are those best placed to know what is good for them. It
 has by now become obvious that societies that choose to organize their
 government along these lines have witnessed economic growth far in
-excess of those that pursued a different route. The former type of
-societies have in particular fostered the emergence of the individual
+excess of those that pursued a different route. These societies have in particular fostered the emergence of the individual
 human being as the basic unit of the social contract and endowed her
 with a new degree of acceptance, freedom and protection. The intrinsic
 superiority of democracy over an oligarchic system, let alone a
@@ -831,7 +827,7 @@ The difficulties encountered in conforming to all these conditions
 explain why the emergence of democracies remains tricky and awkward. It
 also explains how the Internet came to be seen as a powerful medium to
 foster collective intelligence. From Pierre Levy’s *Collective
-Intelligence* to Pisani and Piotet’s *The Alchemy of Crowds* and
+Intelligence* to Pisani and Piotet’s *The Alchemy of Multitude* and
 Surowiecki’s *The Wisdom of Crowds*, there have been numerous writings
 which portrayed the Internet’s capacity to reformat the practical
 modalities of coordination and coproduction of knowledge and
@@ -868,9 +864,9 @@ users who contribute to its content. In September 2013, a miniscule
 0,0002% of users of the French language version of Wikipedia were active
 contributors, i.e. users having edited at least five entries during the
 past month.[^12] The number of users having edited fr.wikipedia.org three
-times a day is only 773 per 20 million visitors. This is still a far
+times a day is only 713 per 20 million visitors. This is still a far
 greater number than the amount of editors of the French encyclopedia
-site universalis.fr and may explain the relatively high quality of
+Universalis.fr and may explain the relatively high quality of
 Wikipedia articles. Nonetheless it represents only a tiny minority of
 the general population. This phenomenon can be observed with the
 majority of the Internet’s content production mechanisms, whether blogs,
@@ -878,20 +874,18 @@ users’ valuation/assessment sites, or comments on news articles.
 
 Not that participation on these platforms is modest; on the contrary, it
 is considerable. But it is still relatively limited when compared to the
-sum total of Internet users and very minute when measured against the
-population of more developed countries. When considered relative to the
+sum total of Internet users. When considered relative to the
 whole world population, it is absolutely marginal. Recognizing this does
 not detract from the fact that there is a high quality content
 collectively produced on the Internet but some caution is necessary when
 assessing this state of affairs. For example Wikipedia and TripAdvisor
 are highly popular sites, despite the fact that the site content is
 produced by a tiny minority of users who are not necessarily
-representative and who are solely motivated by the wish to participate
-in a collective endeavor.
+representative.
 
 ## 3.4 Independence
 
-Delegating production without conditions is surely the main
+Delegating production without *a priori* is surely the main
 characteristic of *crowdsourcing.* Providing the opportunity for
 everyone to contribute to the common good according to her availability
 and interests improves interactions and enables more open forms of
@@ -902,11 +896,10 @@ framework of the encyclopedia.
 
 This practice has been inspired by the way open source software was
 developed and disrupted the previously held assumptions about expertise.
-The Apache server used by the majority of Internet sites, the PHP script
-and also the Linux operating system were developed along lines of
+The Apache server used by the majority of Internet sites, the PHP scripting language and also the Linux operating system were developed along lines of
 ‘delegation’ that are quite similar to those applied by Wikipedia. These
 approaches show the potential of decentralized production formats which
-now compete with increasing success against more openly hierarchical
+now compete with increasing success against more hierarchical
 models.
 
 Yet the success of the concept of collective intelligence turns into a
@@ -919,8 +912,8 @@ commonplace in IT development, is even more pronounced in the case of
 Wikipedia. It has now become clear that the current troubles with
 Wikipedia are not about amateurism but are caused by creeping
 professionalization, where some users have both a personal interest and
-also possess the expertise to contribute to the encyclopedia’s content.
-This is particularly the case with businesses and media celebrities who
+the expertise to contribute to the encyclopedia’s content.
+This is particularly the case with businesses and celebrities who
 are increasingly attempting to manipulate Wikipedia’s content in their
 favor and they do not hesitate to hire specialized firms in order to
 carry this out.[^13]
@@ -930,10 +923,8 @@ individual intelligences that knowingly intervene in the distribution,
 valorization, coordination and promotion of specific content.[^14] In
 addition to the case of Wikipedia discussed above, it would appear that
 an increasing number of specialized firms try to manipulate the open
-delegation process in their favor. For example, on TripAdvisor and the many
-other equivalent sites encouraging user advice, comments or feedback but
-which also use inbuilt mechanisms for product placement, spin or bashing
-competitors.
+delegation process in their favor. For example, TripAdvisor and the many
+other equivalent sites encouraging user advice, comments or feedback are subjected to continuous attempts of manipulation and product placement, spin or bashing competitors.
 
 For a long time this phenomenon was largely marginal and also often
 considered vaguely absurd but it has gradually become entrenched over
@@ -996,7 +987,7 @@ intelligence a given. The aggregation of individual practices may make
 this happen but to achieve this requires a large amount of
 manipulation, which takes place in a completely opaque and obscurantist
 manner.[^18] This is how we witness the slow mutation of ‘collective
-intelligence’ into ‘distributed competence’, which has no other outcome
+intelligence’ into ‘distributed capability’, which has no other outcome
 than to increase the power of those who already possess it. This may
 result in an increase in the general power of understanding but it may
 be wise not to harbor too many illusions about what kind of intelligence
@@ -1030,7 +1021,7 @@ important it is that the world emerges as one common political space for
 humanity. But it also underlines the Internet’s precarious position in a
 world that is not yet one society.
 
-# 4. From Free to Proprietary
+# Chapter 4. From Free to Proprietary
 
 Both freedom of expression and collective intelligence have much to do
 with the Internet’s characteristic spatiality. By simplifying the global
@@ -1070,7 +1061,7 @@ visual merchandising all contribute to visibility. The actual exchange
 constitutes the other component of a transaction. Once a level of
 visibility has been attained, finalizing the transaction demands a
 contact between demand and supply. Such contact is obvious in the case
-of a physical display, in a shop, but less so when the demand appears on
+of a physical display in a shop, but less so when the demand appears on
 ads or from a friend’s recommendation. The object of the future
 transaction needs to be communicated between the party desiring it and
 the one able to provide it.
@@ -1130,8 +1121,7 @@ film, economies of scale is very substantial but conversely, so is the
 costs of their materialization as books, CDs and DVDs in terms of
 production, storage and distribution.
 
-The convergence between digital production and the development of the Internet has now resulted in near zero production costs. Once it has
-already been produced the cost of an additional digital copy of an
+The convergence between digital production and the development of the Internet has now resulted in near zero marginal cost of production. Once it has already been produced the cost of an additional digital copy of an
 article, song or film is almost nothing. This tendency to introduce
 such large economies of scale has reshaped the economy of ‘free’ by
 radically cutting down the distribution cost of creative works.
@@ -1143,8 +1133,7 @@ opportunities. The advertising industry is the most demonstrative in
 this respect, as advertisements can now be very precisely targeted. With
 data mining techniques it is now possible to identify previously vague
 targets much more accurately and develop specially customized ads.
-Google’s immense market cap value, one of the highest in the world based
-on a free service, provides a perfect example of the new system. This is
+Google’s immense market cap value, one of the highest in the world, is based on a free service and provides a perfect example of the new digital economy. This is
 only possible because while the service may be free for users, it is
 certainly not for advertisers. In 2009, the journalist Mike Elgan
 devised a knowing expression for this phenomenon by suggesting that when
@@ -1163,7 +1152,7 @@ able to sell its ad-space at a higher price, while at the same time
 improving the quality of its services. By exploiting personal data,
 Google not only increases its value for advertisers but it can also
 improve the ranking of Internet sites, improve the information on Google
-maps, provide better hits on YouTube, enhance the anti-spam package on
+maps, provide better suggestions on YouTube, enhance the anti-spam package on
 Gmail and in general improve the performance of all its related
 services.
 
@@ -1302,11 +1291,10 @@ not only directly competes with all the major IT corporations but also
 with its primary funder. Firefox’s market share is already dwindling and
 it will be increasingly difficult for it to continue competing with
 transparency, open access to the source code and respect for the privacy
-of user data as unique selling points. The deep pockets of Google and
+of user data. The deep pockets of Google and
 Microsoft in the battle for dominance over one of the key components of
 digital practices means that Mozilla, despite its remarkable initiatives
-and superior quality will probably become the next big casualty in the
-brave new world of free.
+and the quality of Firefox will probably become the next big casualty in the brave new world of free.
 
 The psychologist and economist Dan Ariely makes the same point when he
 argued that we are paying far too much every time we get something for
@@ -1319,8 +1307,8 @@ by the companies themselves but by their users.
 
 The preference for crowdsourcing by Google, Wikipedia, Twitter and
 Facebook does not embody all possible production formats. In fact, the
-confusion between mediation and production is such that many such
-sites actually consist of illegally obtained content. In this case the
+confusion between mediation and production is such that many
+sites actually consist of illegally obtained content. In some cases the
 transmission, while nearly costs-free, comes with a fee, whereas the
 production costs are not covered at all. The least important
 consideration in these transactions is the actual value of the property
@@ -1331,8 +1319,7 @@ Unfortunately this fluidity translates into a concentration of power in
 the hands of a small number of firms that are now becoming mere
 intermediaries. As intermediaries these firms derive all of their profit
 from content they do not produce themselves. This is the reason why
-gratis threatens those creations, which cannot be accommodated in this
-mediation-based business model. 
+gratis threatens those creations, which cannot always be accommodated in this mediation-based business model. 
 
 This is particularly true in the case
 of investigative journalism and the creation of audiovisual content.
@@ -1402,18 +1389,17 @@ trend. Since values regarding liberty, privacy and ownership are
 unequally shared, we will witness a further partitioning of the
 Internet. The current national restrictions on the distribution of Netflix and iTunes are only the first symptoms of this new future.
 
-The main political issue of today in this regard is to uphold the potential of gratis
-while at the same time safeguarding authorship and intellectual property
+The main political issue of today in this regard is to uphold the potential of gratis while at the same time safeguarding authorship and intellectual property
 rights. Such a challenge almost certainly entails more interventions in
 the basic components of the Internet. The Internet Society (ISOC) is
 very aware of these issues in its role as policies, technicalities and
 development watchdog with a particular concern for the Internet’s
 enduring openness and transparency. But at the same time, the most
 powerful nations of the world, notably the US but also the UK
-and France, are actively pursuing a recovery of their online national
+and France, are actively pursuing a recovery of their national
 sovereignty and the Internet will not remain unaffected.
 
-# 5. From Decentralization to Hypercentrality
+# Chapter 5. From Decentralization to Hypercentrality
 
 Scarcely twenty years after its commercial development and expansion,
 the Internet’s aspiration to be a forerunner of diversity, plurality and
@@ -1469,15 +1455,13 @@ resources, computers and connections.
 Yet the development of social networks, the spread of blogs, and the
 popularity of BitTorrent have created new centralities. Personal
 homepages are being replaced by blogs on platforms such as Wordpress and
-Tumblr. Facebook and Twitter are replacing forums and email. BitTorrent
-still requires ‘trackers’, programs that centralize all the files in
-cyberspace. This is how potential decentralization reconfigures into
+Tumblr. Facebook and Twitter are replacing forums and email. This is how potential decentralization reconfigures into
 functional centralization; largely for the benefit of those actors who
 are able to take advantage of these new forms of centralities. Occupying
 a central place is a major asset, since such a key position can only be
 challenged by severe disruptions of existing technologies and practices.
 
-## 5.2 The Power of Choice by Default and the Status Quo
+## 5.2 The Power of Default Choice and Status Quo
 
 One of the simplest methods to achieve centrality was used in the
 beginning of the 1990s by many access providers. This was at the dawn of
@@ -1500,13 +1484,13 @@ alternative ones when this involved some additional action. This was
 even the case when crucial decisions had to be made, for example the
 choice of a pension plan.
 
-The issue of ‘by default’ choice is the more pressing because of its
+The issue of *default choice* is the more pressing because of its
 connection with another empirical observation: once made, a choice is
 rarely altered. This has been further demonstrated by many legal
 measures against the deceptive use of the default option, the most
 famous example being the European Union’s ruling on the bundling of
 Explorer with Windows. There is a real need to crack down on default
-options, especially when made by quasi-monopolies and when such by
+options, especially when made by quasi-monopolies and when such
 default choices are usually long term.
 
 William Samuelson and Richard Zeckhauser had already described this
@@ -1559,8 +1543,8 @@ some corporate actors have understood all too well.
 
 Understanding the rationale of hypercentrality demands a good grasp of
 the particular properties of networked spaces. The concentration of more and more digital practices in a growing number of spaces cannot simply be translated into a notion of territorial places.
-Territorial places are based on proximity whereas networked places are
-based on relatedness in terms of content.
+Territorial places are based on contiguity whereas networked places are
+based on connexity.
 
 The multiplicity of territorial places is unavoidable because matter
 takes up space and its relocation takes time. This is why we have seen a
@@ -1592,7 +1576,7 @@ total, boundless intensity.
 
 This rule applies to all domains: most notably Wikipedia and Facebook
 but also to instant messaging services like WhatsApp and Viber, to crowdfunding platforms like Kickstarter, to flat-share sites such as Airbnb
-and Couchsurfing.com, to dating sites like Match.com and finally to
+and Couchsurfing.com, to dating sites like Match.com and Tinder, and finally to
 evaluation sites such as Yelp, TripAdvisor or IMDB. All these sites are
 spaces whose effectiveness grows with the number of their users. The
 higher performing sites only further increase their centrality by
@@ -1600,23 +1584,21 @@ benefiting from a positive feedback loop that is extremely detrimental
 to other competing sites lagging behind in network effect, visibility
 and centrality accretion.
 
-## 5.5 The Rationale of Network Consolidation
+## 5.5 The Rationale of Reticular Coalescence
 
 What makes hypercentrality such a noteworthy factor is that it
 intensifies the features of centrality to an extreme degree. Once
 hypercentrality has been achieved in one domain, the visibility gained
 makes it much easier to buy out the remaining local sites.
 InterActiveCorp, the owners of the Match.com dating site and the ads site eBay, did exactly that in order to enhance their centrality in
-those cultural spaces where other sites had already attained a
+cultural spaces where other sites had already attained a
 considerable centrality. Hypercentrality then makes it possible to start
-new services by benefiting from a phenomenon best described as networked
-consolidation. This is why we witness a growing diversity in the more
+new services by benefiting from a phenomenon best described as reticular coalescence. This is why we witness a growing diversity in the more
 central spaces that aim to broaden their activities to other services in
 order to achieve the same degree of centrality with this new service.
 
 Thus hypercentrality has a tendency to reduce the number of spaces
-devoted to a particular issue and the dynamics of networked
-consolidation make these few remaining spaces vie with each other for
+devoted to a particular issue and the dynamics of reticular coalescence make these few remaining spaces vie with each other for
 total centrality. Yet, network effects are sometimes so powerful that
 even the holders of longstanding, sweeping centralities still cannot
 overcome them. This is the case with Facebook, whose hypercentrality
@@ -1627,7 +1609,7 @@ fact that the service he provides is analogous to a public electricity
 supplier. But electricity is a physical good and its production and
 distribution involves a large range of private companies. We would never
 want to depend on a single monopolistic corporation to provide all our
-electricity.
+electricity at a global scale.
 
 Google was not able to develop its own large-scale social network
 despite its remarkable degree of hypercentrality. The usual strategy of
@@ -2180,8 +2162,7 @@ Cyberspace,* trans. Robert Bononno, New York: Perseus Books, 1999.
 Mitchell, William J. *City of Bits: Space, Place and the Infobahn*,
 Cambridge, Massachusetts: MIT Press, 1995.
 
-Pisani, Francis and Dominique Piotet. *La Alquimia de las Multitudes,*
-Barcelona: Paidós, 2009.
+Pisani, Francis and Dominique Piotet. *L’alchimie des multitudes*, Paris: Pearson, 2008.
 
 Popper, Karl. *The Open Society and Its Enemies,* London: Routledge,
 1945.
@@ -2244,7 +2225,7 @@ March 2000, <http://www.wsj.com/articles/SB95326824311657269>.
     les logiques contemporaines de synchorisation*, Limoges: FYP
     Éditions, 2012.
 
-[^11]: See: *Internet World Stats: Usage and Population Statistics,*
+[^11]: See: *Internet World Stats: Usage and Population Statistics*,
     <http://www.internetworldstats.com/stats.htm>.
 
 [^12]: For recent English and French Wikipedia statistics see
