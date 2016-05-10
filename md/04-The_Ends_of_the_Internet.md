@@ -1620,9 +1620,7 @@ position in order to buy out potential competitors or to offer
 additional services. This allows them to take full advantages of
 economies of scale, network effects and hypercentrality, and ultimately
 to extend their domination. Recent examples are when Facebook bought out
-Instagram whose growing success was perceived as a threat and eBay’s
-acquisition of Paypal, with the aim of taking greater control over their
-users’ monetary transactions.
+Instagram and Whatsapp whose growing success was perceived as a threat.
 
 Today, Internet space is divided up between a small number of big
 companies that increasingly compete against each other and considerably
@@ -1654,7 +1652,7 @@ impenetrable protocols and appropriating user content.
 The current problems associated with hypercentrality are just the early
 symptoms of a far worse crisis to come, since these vast corporations
 aim for total global dominance and possess a growing number of
-resources. Facebook and Twitter increasingly set the norm for what is
+resources. Facebook increasingly sets the norm for what is
 acceptable or not, both in terms of user privacy and freedom of
 expression in general. The moment that Facebook has the power to decide
 that showing a beheaded women is less shocking than nudity, some serious
@@ -1672,7 +1670,7 @@ call for a new, global political order that is able to provide a
 countervailing force against this concentration of private, corporate
 power. If we do not manage to face up to this task these firms will be
 able to force their own values and interests upon the world at large and
-they are not the same interests as their users’. The alternative is implementing the rights and policies pertaining to
+those are not the same as their users’. The alternative is implementing the rights and policies pertaining to
 each territorial space and will result in a fragmentation of these
 services, ending their globality.
 
@@ -1745,7 +1743,7 @@ meetings where the stakes are high is a good illustration of this state
 of affairs. Spies must now either resort to more conventional and
 onerous techniques or develop more sophisticated cyber methods.
 
-## 6.2 Network Imperialism
+## 6.2 Reticular Imperialism
 
 This situation is disturbing because hackers are far from the only
 groups to exploit these vulnerabilities. On the contrary, many hackers
@@ -1849,7 +1847,7 @@ To affirm Eric Schmidt’s slogan: ‘If you have something that you don’t
 want anyone to know, maybe you shouldn’t be doing it in the first place’
 means assenting to the convergence between Facebook, WikiLeaks, Google
 and the NSA.[^36] All these actors claim unfettered access to user
-information makes the world a better place. Which raises the question;
+information makes the world a better place. Which raises the question:
 which world are we talking about?
 
 
@@ -1861,7 +1859,7 @@ gratis, decentralize power and resist any attempt at taking control of
 the Internet itself. Regrettably, we must come to the conclusion that
 these ideals are rapidly fading away. Seemingly abolished barriers are
 being re-erected again. Freedom of speech is subject to a number of
-restrictions. Connectivity and bandwidth are still unequally
+restrictions. Engagements and capabilities are still unequally
 distributed. Power has never been so centralized. We are clearly
 witnessing the end of the Internet as we formerly knew it. By altering
 the nature of space, the Internet has changed humanity’s social
@@ -2073,7 +2071,7 @@ uncompromising when addressing the abuses every political society is
 prone to committing and the manipulation of the Internet.
 
 What the world really needs is a major political debate centering on the
-future of the only space that the whole of humanity shares in common.
+future of the only place that the whole of humanity shares in common.
 There is no doubt that a choice will have to be made, between a
 globalization of politics or the end of the Internet as we know it. We
 will have to make the Internet the central issue of a debate which given
@@ -2090,7 +2088,7 @@ The Internet is in clear danger of disappearing and part of our very
 humanity threatens to disappear with it. As the bearer of a form of
 globalization actively empowering individuals, the very existence of the
 Internet suggests that the time has come for humanity to consider a
-change in scale towards its final destiny: the world. The Internet is
+change in scale towards its final destiny: the World. The Internet is
 the perfect public place to rise to this challenge; it is an ideal but
 also fragile space that we must never cease to cherish, share and
 protect together.
@@ -2180,8 +2178,7 @@ Transcription of the 1789 Joint Resolution of Congress Proposing 12
 Amendments to the U.S. Constitution’. *National Archives,*
 <http://www.archives.gov/exhibits/charters/bill_of_rights_transcript.html>.
 
-Wiener, Norbert. *Cybernetics: Or Control and Communication in the
-Animal and the Machine*, Cambridge, Massachusetts: MIT Press, 1948.
+Wiener, Norbert. *The Human Use of Human Beings*, Cambridge, Massachusetts:The Riverside Press (Houghton Mifflin Co.), 1950. 
 
 Woolsey, James R. ‘Why We Spy on Our Allies’, *Wall Street Journal,* 17
 March 2000, <http://www.wsj.com/articles/SB95326824311657269>.
