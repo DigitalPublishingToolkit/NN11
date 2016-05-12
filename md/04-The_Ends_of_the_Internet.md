@@ -2184,11 +2184,9 @@ Woolsey, James R. ‘Why We Spy on Our Allies’, *Wall Street Journal,* 17
 March 2000, <http://www.wsj.com/articles/SB95326824311657269>.
 
 
-[^1]: Norbert Wiener, *Cybernetics: Or Control and Communication in the
-    Animal and the Machine*, Cambridge, Massachusetts: MIT Press, 1948.
+[^1]: Norbert Wiener, *The Human Use of Human Beings*, Cambridge, Massachusetts:The Riverside Press (Houghton Mifflin Co.), 1950.
 
-[^2]: Norbert Wiener, *Cybernetics: Or Control and Communication in the
-    Animal and the Machine*.
+[^2]: Norbert Wiener, *The Human Use of Human Beings*.
 
 [^3]: John Perry Barlow, *A Declaration of the Independence of
     Cyberspace*, 8 February 1996,
