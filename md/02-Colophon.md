@@ -13,7 +13,7 @@ Miriam Rasch
 **Publisher:** Institute of Network Cultures, Amsterdam  
 **Supported by:** Amsterdam University of Applied Sciences (Hogeschool van Amsterdam)</span>
 
-<span class="white">First published in French as *Les fins d’Internet*, Limoges, FYP Editions, 2014, all rights reserved</span>
+<span class="white">First published in French as *Les fins d’Internet*, Limoges, FYP Editions &copy; 2014</span>
 
 
 <span class="white">If you want to order copies please contact:  
