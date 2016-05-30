@@ -62,94 +62,90 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Title Page</Content>
-  </CharacterStyleRange>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
-              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
         <Properties>
           <Profile type="string">
             $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
         <Link Self="ueb" LinkResourceURI="file:imgs/titlepage.png" />
       </Image>
     </Rectangle>
-  </CharacterStyleRange>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The Ends of the Internet</Content>
-  </CharacterStyleRange>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>The Ends of the Internet</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> is an investigation into all the reasons why the Internet, which has been with us for over thirty years, is now on the verge of disappearing. Originally conceived as a space of freedom, the Internet has become the world's largest panopticon and freedom of expression is subject to surveillance and supervision on an unprecedented scale. The utopian theories of collective intelligence have been undermined by a growing tendency towards commercial exploitation. A small group of companies profit from the majority of online activities. Even the robustness of the Internet itself is now at stake, with vulnerabilities increasing and many organizations, governments and individuals targeted by malicious cyber attacks.</Content>
-  </CharacterStyleRange>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Drawing upon critical insights on a range of current issues such as surveillance, NSA and privacy, Beaude demonstrates that the Internet should no longer be considered a neutral or secure support. Beaude also formulates new proposals for enabling the Internet to survive the clash of special interest groups and remain a truly global space of freedom.</Content>
-  </CharacterStyleRange>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Boris Beaude is a senior research fellow with the Chôros research lab at the École Polytechnique Fédérale de Lausanne. His research focuses on the spatial dimensions of telecommunication and the spatial context for social interaction. He is particularly interested in the Internet as a space of production, collaboration and coexistence.</Content>
   </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="">
-</ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
-              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
-              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
         <Properties>
           <Profile type="string">
             $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
         <Link Self="ueb" LinkResourceURI="file:imgs/background.png" />
       </Image>
     </Rectangle>
-  </CharacterStyleRange>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <Br />
 </ParagraphStyleRange>
 
   </Story>

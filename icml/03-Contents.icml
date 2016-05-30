@@ -52,128 +52,134 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Contents</Content>
-  </CharacterStyleRange>
+  </CharacterStyleRange><Br />
 </ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>From the Abolition of Space to the Emergence of Territory</Content>
+      <Content>Introduction: The Abolition of Space</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>From the Freedom of Speech to the Global Panopticon</Content>
+      <Content>Chapter 1: From the Abolition of Space to the Emergence of Territory</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>From Collective Intelligence to Distributed Competence</Content>
+      <Content>Chapter 2: From the Freedom of Speech to the Global Panopticon</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>Chapter 4: From Free to Proprietary</Content>
+      <Content>Chapter 3: From Collective Intelligence to Distributed Capability</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>From Decentralization to Hypercentrality</Content>
+      <Content>Chapter 4: From Free to Proprietary</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>From Resilience to Vulnerability</Content>
+      <Content>Chapter 5:From Decentralization to Hypercentrality</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>Conclusion: From Net Neutrality to the Neutralization of the Internet</Content>
+      <Content>From Resilience to Vulnerability</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>Conclusion: From Net Neutrality to the Neutralization of the Internet</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>References</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource>
+  </HyperlinkTextSource><Br />
 </ParagraphStyleRange>
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/ch013.xhtml" Name="link" DestinationURL="ch013.xhtml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-8" Name="ch013.xhtml" Source="htss-8" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-9" Name="ch013.xhtml" Source="htss-9" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/ch013.xhtml</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/ch012.xhtml" Name="link" DestinationURL="ch012.xhtml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-7" Name="ch012.xhtml" Source="htss-7" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-8" Name="ch012.xhtml" Source="htss-8" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/ch012.xhtml</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/ch011.xhtml" Name="link" DestinationURL="ch011.xhtml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-6" Name="ch011.xhtml" Source="htss-6" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-7" Name="ch011.xhtml" Source="htss-7" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/ch011.xhtml</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/ch010.xhtml" Name="link" DestinationURL="ch010.xhtml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-5" Name="ch010.xhtml" Source="htss-5" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-6" Name="ch010.xhtml" Source="htss-6" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/ch010.xhtml</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/ch009.xhtml" Name="link" DestinationURL="ch009.xhtml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="ch009.xhtml" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-5" Name="ch009.xhtml" Source="htss-5" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/ch009.xhtml</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/ch008.xhtml" Name="link" DestinationURL="ch008.xhtml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="ch008.xhtml" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-4" Name="ch008.xhtml" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/ch008.xhtml</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/ch007.xhtml" Name="link" DestinationURL="ch007.xhtml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="ch007.xhtml" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-3" Name="ch007.xhtml" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/ch007.xhtml</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/ch006.xhtml" Name="link" DestinationURL="ch006.xhtml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="ch006.xhtml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-2" Name="ch006.xhtml" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/ch006.xhtml</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/XXXX.xhtml" Name="link" DestinationURL="XXXX.xhtml" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="XXXX.xhtml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/XXXX.xhtml</Destination>
     </Properties>
   </Hyperlink>
 </Document>

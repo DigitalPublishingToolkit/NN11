@@ -267,7 +267,7 @@ section.level1#title-page h1 { display:none !important;}
 section.level1#digital-tailspin h1 { display:none !important; }
 section.level1#digital-tailspin p { font-weight:bold; }
 div.background { display:none !important;}
-section.level1#digital-tailspin, section.level1#colophon, section.level1#network-notebook-series, section.level1#contents, section.level1#the-internet-revolution-from-dotcom-capitalism-to-cybernetic-communism {background-image: url("media/file1.png");} /*maybe this should be body*/
+section.level1#the-ends-of-the-internet, section.level1#colophon, section.level1#network-notebook-series, section.level1#contents {background-image: url("media/file1.png");} /*maybe this should be body*/
 
 section#title-page img { page-break-after: always;
 			 -webkit-column-break-after: always;

@@ -1,15 +1,17 @@
 #Title Page
+
 <div class="title">![](imgs/titlepage.png)</div>
 
-
 # The Ends of the Internet
-<!-- backcover text -->
-<span class="white">...backcover synopsis</span>
 
-<span class="white">...Another chapter of backcover synopsis</span>
+<span class="white">*The Ends of the Internet* is an investigation into all the reasons why the Internet, which has been with us for over thirty years, is now on the verge of disappearing. Originally conceived as a space of freedom, the Internet has become the world's largest panopticon and freedom of expression is subject to surveillance and supervision on an unprecedented scale. The utopian theories of collective intelligence have been undermined by a growing tendency towards commercial exploitation. A small group of companies profit from the majority of online activities. Even the robustness of the Internet itself is now at stake, with vulnerabilities increasing and many organizations, governments and individuals targeted by malicious cyber attacks.</span>
+
+<span class="white">Drawing upon critical insights on a range of current issues such as surveillance, NSA and privacy, Beaude demonstrates that the Internet should no longer be considered a neutral or secure support. Beaude also formulates new proposals for enabling the Internet to survive the clash of special interest groups and remain a truly global space of freedom.</span>
+
+<span class="white">Boris Beaude is a senior research fellow with the Chôros research lab at the École Polytechnique Fédérale de Lausanne. His research focuses on the spatial dimensions of telecommunication and the spatial context for social interaction. He is particularly interested in the Internet as a space of production, collaboration and coexistence.</span>
+<span class="white"><div class="background">![](imgs/background.png)</div></span>
 
 
-<div class="background">![](imgs/background.png)</div>
 
 # Colophon
 
@@ -26,7 +28,7 @@ Miriam Rasch
 **Publisher:** Institute of Network Cultures, Amsterdam  
 **Supported by:** Amsterdam University of Applied Sciences (Hogeschool van Amsterdam)</span>
 
-<span class="white">First published in French as *Les fins d’Internet*, Limoges, FYP Editions,2014.</span>
+<span class="white">First published in French as *Les fins d’Internet*, Limoges, FYP Editions &copy; 2014</span>
 
 
 <span class="white">If you want to order copies please contact:  
@@ -39,11 +41,11 @@ t: +31 (0)20 59 51 865</span>
 freely downloadable from:**
 <http://www.networkcultures.org/publications></span>
 
-<span class="white">This publication is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-sa/4.0/>.</span>
+<span class="white">This translation is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-sa/4.0/>.</span>
 
 <span class="white">Amsterdam, April 2016  
-ISBN ??????????????? (print)  
-ISBN ??????????????? (EPUB)</span>
+ISBN 9789492302052 (print)  
+ISBN 9789492302069 (EPUB)</span>
 
 ![](imgs/file1.jpg)
 ![](imgs/file2.jpg)
@@ -57,10 +59,10 @@ ISBN ??????????????? (EPUB)</span>
 <span class="white">PREVIOUSLY PUBLISHED NETWORK NOTEBOOKS:</span>
 
 <span class="white">**Network Notebooks 10**<br/>
-  Richard Barbrook with Andy Cameron, The Internet Revolution: From Dotcom Capitalism to Cybernetic Communism</span>
+  Richard Barbrook with Andy Cameron, The Internet Revolution, 2015.</span>
 
 <span class="white">**Network Notebooks 09**<br/>
-  Michael Seemann, Digital Tailspin: Ten Rules for the Internet After Snowden.</span>
+  Michael Seemann, Digital Tailspin: Ten Rules for the Internet After Snowden, 2015.</span>
 
 <span class="white">**Network Notebooks 08**  
   Brooke Wendt, The Allure of the Selfie: Instagram and the New Self Portrait, 2014.</span>
@@ -88,15 +90,17 @@ ISBN ??????????????? (EPUB)</span>
 
 # Contents
 
-  <span class="white">[From the Abolition of Space to the Emergence of Territory](ch006.xhtml)</span>
+<span class="white">[Introduction: The Abolition ofSpace](XXXX.xhtml)</span>
 
-  <span class="white">[From the Freedom of Speech to the Global Panopticon](ch007.xhtml)</span>
+  <span class="white">[Chapter 1: From the Abolition of Space to the Emergence of Territory](ch006.xhtml)</span>
 
-  <span class="white">[From Collective Intelligence to Distributed Competence](ch008.xhtml)</span>
+  <span class="white">[Chapter 2: From the Freedom of Speech to the Global Panopticon](ch007.xhtml)</span>
+
+  <span class="white">[Chapter 3: From Collective Intelligence to Distributed Capability](ch008.xhtml)</span>
 
   <span class="white">[Chapter 4: From Free to Proprietary](ch009.xhtml)</span>
 
-  <span class="white">[From Decentralization to Hypercentrality](ch010.xhtml)</span>
+  <span class="white">[Chapter 5:From Decentralization to Hypercentrality](ch010.xhtml)</span>
 
   <span class="white">[From Resilience to Vulnerability](ch011.xhtml)</span>
 
@@ -119,7 +123,7 @@ the first electronic communications between computers it became a
 political project during the sixties. The Internet’s technical bases
 were already established in the seventies and deployed during the
 eighties as part of military and scientific research. But it was only in
-the nineties, when the United States authorized its commercial use that
+the nineties, when the US authorized its commercial use that
 the Internet evolved into how we know it today. By this point the
 Internet had become firmly grounded on a few elementary principles that
 ensured its effectiveness and worldwide success. The Internet had to
@@ -135,7 +139,7 @@ At present, the growth and scope of the Internet appears limitless. Yet,
 little more than ten years ago, Skype, iTunes, Facebook, Google Maps,
 Flickr, YouTube, Twitter, WikiLeaks, Dropbox, Spotify, Reddit and
 Instagram did not exist. Earlier developments such as Google, Paypal,
-BitTorrent, Wikipedia, Amazon, eBay, and public access to the Internet
+BitTorrent, Wikipedia, Amazon and eBay, and public access to the Internet
 are still less than twenty years old. In the Internet’s early days
 bandwidth, contents and services were very limited, and the Internet was
 only accessible to a minority of people whose professional activities
@@ -154,14 +158,14 @@ researchers in the Cybernetics movement, societies that had become
 seriously dysfunctional were lacking the effective ‘feedback loops’
 required to maintain stability in the social system.[^1] When confronted
 with dramatic developments such societies did not have adequate
-‘feed-back’ to sufficiently respond to the situation.
+‘feedback’ to sufficiently respond to the situation.
 
 Wiener’s conclusion was that any obstruction to the free circulation of
 information risked irreversible destabilization. Therefore the Internet
 came to be seen as a technical solution to the problem at hand since it
 makes it difficult to censure or control information.
 
-A few elementary building blocks had been already been placed in the
+A few elementary building blocks had already been placed in the
 renewal of one of society’s major foundations: the social bond. Indeed,
 the Internet has effectively transformed the practical terms of
 interaction. The spatial distance remains, but its nature has changed.
@@ -181,7 +185,7 @@ expertise scattered around particular issues, i.e. online encyclopedias,
 software development, discussion forums, funding drives, political
 mobilization, etc. The near-zero cost of transmission and reproduction
 of information has disrupted the economy of intangible resources. Free
-access has become the norm. The circulation of cultural good has reached
+access has become the norm. The circulation of cultural goods has reached
 unparalleled levels.
 
 The Internet is a powerful driver of innovation, fueled by its unique
@@ -189,12 +193,12 @@ culture of openness. This openness is characterized by free access to
 the sources of its strategic tools and in the documentation of those
 components that are vital to its free usage. The Internet’s
 decentralized structure has resulted in the proliferation of diverse
-public initiatives and associative, private, individual, and collective
+public initiatives and associative, private, individual and collective
 enterprises. Any intermediary wishing to impose itself at the expense of
 more efficient forms of mediation runs the risk of either being bypassed
 or discarded altogether. Twenty years after its commercial development,
 the Internet appears to be at the peak of its potential. Its robustness
-has been proven as it has adapted to a much a higher growth than its
+has been proven as it has adapted a much higher growth than its
 developers had imagined.
 
 But in recent years, the Internet’s founding principles have been
@@ -224,7 +228,7 @@ In their desire to make the world a common space for all humanity, the
 early Internet pioneers underestimated both the fragility of societies
 and the strength of opposing forces. As societies hold diverse values
 certain parties are demanding that the Internet increasingly conforms to
-their own private interests. We now see this confrontation of public,
+their own private interests. We now see this confrontation of public and
 private, individual and collective claims steadily growing and we have
 to come to terms with the fact that the Internet will change profoundly.
 The Internet was largely built on the basis of North American values;
@@ -262,7 +266,7 @@ is one and only one Internet and that is has become so commonplace does
 not detract from its uniqueness. The Internet is not like a radio or
 furniture. The ‘Internet’ is a proper name, just like ‘Norway’ or ‘The
 European Union’. Whatever we do to alter the Internet, however locally,
-effects the Internet as a whole. Moreover, the end of the Internet would
+affects the Internet as a whole. Moreover, the end of the Internet would
 not mean the emergence of ‘micro internets’. Such a term would make no
 sense. There is a more sinister term to describe it: the ‘intranet’. The
 ‘intranet’ is a generic term and there are many intranets already.
@@ -281,25 +285,25 @@ Today it is essential that contemporary societies engage in a broad
 debate about what should be done in this renewed space and to establish
 the rules of coexistence that will make it possible to accommodate the
 numerous practices now emerging. A legitimate policy must arbitrate
-between the developing possibilities to make the Internet a legitimate
+between the developing possibilities so as to make the Internet a legitimate
 space too. Failing this the Internet will be destroyed by conflicting
 claims. May this book help the Internet survive singular interests and
 contribute to it remaining a truly global space for humanity.
 
-# Chapter I: From the Abolition of Space to the Emergence of Territory
+# Chapter 1. From the Abolition of Space to the Emergence of Territory
 
 The Internet presents a paradox that is difficult to understand and that
 has resulted in many misconceptions. The Internet is both abolishing
-space yet at the same time, constituting a space itself. Common language
+space yet at the same time constituting a space itself. Common language
 betrays the close semantic proximity of the Internet and space: we speak
 of ‘going on the Internet, of a ‘navigator’ (the technical term for a
 browser), we ‘surf’ the Internet, where there are ‘sites’, ‘addresses’,
-firewalls, and paywalls, and we talk about ‘virtual spaces’ in general.
+firewalls and paywalls, and we talk about ‘virtual spaces’ in general.
 Immediately from its beginnings the Internet was considered in utopian
 terms. Coming after the invention of the telegraph and the telephone,
 the Internet meets the growing expectations of being able to make
 contact over increasingly remote distances. The Internet may be
-explainable purely in terms of its technical, economic, or social
+explainable purely in terms of its technical, economic or social
 components but first and foremost it remains a spatial innovation that
 attempts to limit the relevance of distance.
 
@@ -343,9 +347,9 @@ surrounding this word ‘space’: between what locates and what is located.
 Space, however, is not material and neither is it a support. Certainly,
 a space can be located but always in relationship to another space.
 
-The philosophies of Leibnitz and Kant, in the seventeenth to eighteenth
+The philosophies of Leibniz and Kant in the seventeenth and eighteenth
 century and later natural physics in the nineteenth and early twentieth
-centuries, demonstrate that space is an *a priori* condition for
+century, demonstrate that space is an *a priori* condition for
 understanding how objects are situated in relation to each other. Space
 is not some specific thing, but rather the specific arrangement of
 things in their respective relationships. This shift in
@@ -357,7 +361,7 @@ substantial. This materialist approach to space does not allow us to
 fully understand what constitutes the Internet’s reality. The opposition
 between ‘real’ and ‘virtual’ life is certainly the most absurd outcome
 of this misunderstanding since it denies the reality of an increasing
-number of relations, situations, and actions. Ultimately this confusion
+number of relations, situations and actions. Ultimately this confusion
 between ‘real’ and ‘virtual’ obscures another even more insidious
 distinction, between the real and the material. To be more exact, it is
 the immateriality of the relations generated through the mediation of
@@ -379,8 +383,7 @@ networks create discontinuities and rearrange the relative loci of the
 realities that shape a territory. Roads and railways constitute
 preferential links between places with a kind of material stability –
 e.g. schools, hospitals, housing estates – which demands mobility to be
-organized according to what may be mobilized – i.e. bodies, food, books,
-building materials, etc.
+organized according to what may be mobilized – such as bodies, food, books, materials, etc.
 
 Despite the fact that material realities remain an important component
 in our daily lives, today our societies are becoming increasingly
@@ -390,7 +393,7 @@ and dissemination of information has become the basis of many of our
 economic activities. To date, we devote a quarter of our lifespan to
 education, i.e. to the transmission of the information we deem to be
 useful for our development. Our free time also is influenced by the
-dematerialization of music, films, and games. Money has increasingly
+dematerialization of music, films and games. Money has increasingly
 become abstract information and no longer needs to take a material form
 in order to be exchanged.
 
@@ -410,24 +413,23 @@ Facebook and YouTube are all among the many specific spaces meeting
 particular demands with remarkable effectiveness. Such spaces are not
 inferior or ‘virtual’ but very real and actual spaces. The immaterial
 character of the activities taking place within them does not reduce
-their reality. On the contrary this quality enhances their capacity to
+their reality. On the contrary, this quality enhances their capacity to
 fully respond to specific needs. These spaces emerge precisely because
 they meet demands that other territorial spaces are not able cater to
 with the same degree of effectiveness.
 
 It is pointless to stress the virtuality of relationships on Facebook
 for the same reason as it is pointless to compare Wikipedia with the
-Encyclopedia Britannica. It makes more sense to ask what are Facebook
-and Wikipedia spaces for and to adopt a more balanced approach where
+Encyclopædia Britannica. It makes more sense to ask what are Facebook
+and Wikipedia spaces for and to adopt a more balanced approach, where
 territorial spaces are studied through the same questions. Which
 territorial space allows people all over the globe to collaborate on the
 production of an encyclopedia that is freely accessible to all? Which
 territorial space would make sharing at any time possible, with contacts
-we choose, and independent of location? Which territorial spaces would
+we choose, and independent of location? Which territorial space would
 allow us to view or listen to the archive of all audio-visual resources?
 
-Matter is difficult to shift around because it is composed of energy and
-mass. Displacing matter demands an amount of energy exponentially
+Matter is difficult to shift around because its mass. Displacing matter demands an amount of energy exponentially
 proportional to its mass. But light and electricity, the primary
 carriers of information over the Internet, are composed of energy
 circulating in electromagnetic form. They are waves flowing, ideally at
@@ -496,7 +498,7 @@ Internet and the various territorial spaces organizing the world becomes
 greater in consequence.
 
 In this disjunction, the Internet becomes part of a complex type of
-spatiality articulating places and areas into different scales. Now the
+spatiality articulating places and areas on different scales. Now the
 formerly accepted tenets of self-regulation and free circulation of
 information characteristic of the Internet are being questioned and
 challenged by societies reclaiming their sovereignty and demanding that
@@ -521,7 +523,7 @@ ends of the Internet requires a deeper appreciation of its original aims
 and purpose in the context of their incompatibility with the present day
 political order.
 
-# Chapter 2: From the Freedom of Speech to the Global Panopticon
+# Chapter 2. From the Freedom of Speech to the Global Panopticon
 
 In order to understand the difficulties of upholding the Internet’s
 global consistency and coherence, we should start by considering what
@@ -540,7 +542,7 @@ European researchers, who contributed to its ongoing development.
 During the 1960s communism was still perceived as a threat and many
 engineers were convinced that society should apply the principles of
 cybernetics. Ideas such as feedback and auto-regulation had taken on a
-particular significance during this era despite the premises already
+particular significance during this era, although the premises were already
 being formulated in the end of the eighteenth century by Henri de
 Saint-Simon. Norbert Wiener further developed these concepts after the
 Second World War.[^2] At stake was the need to ensure a fluidity of
@@ -557,7 +559,7 @@ only mode of communication able to communicate individual information at
 considerable speed and via vast distances at a near zero cost. After the
 era of the printing press, radio and television, the Internet stimulated
 a far-reaching renewal of the public sphere, giving citizens the
-opportunity to discuss their past, present, and future.
+opportunity to discuss their past, present and future.
 
 In these early days the Internet was considered as a continuation of the
 Enlightenment tradition, since it enabled individuals to form their own
@@ -565,7 +567,7 @@ opinions and to participate in discussions about the best ways to set up
 the social contract framing their actions. The Internet was seen as
 possessing the potential to enlighten the world by criticizing despots,
 revealing unjustified privileges, spreading knowledge of political
-abuse, exposing conflicts of interests, and, in general watching the
+abuse, exposing conflicts of interests, and in general watching the
 people watching us. Politics could rise to higher standards as a renewed
 and more transparent debate took place, ensuring a government with
 interests aligned to the majority of the population rather than catering
@@ -585,11 +587,11 @@ The declaration stated:
 
 > We are creating a world that all may enter without privilege or
 > prejudice accorded by race, economic power, military force, or station
-> of birth. We are creating a world where anyone, anywhere may express
+> of birth.  
+> We are creating a world where anyone, anywhere may express
 > his or her beliefs, no matter how singular, without fear of being
-> coerced into silence or conformity. Your legal concepts of property,
-> expression, identity, movement, and context do not apply to us. They
-> are all based on matter. There is no matter here[^3]
+> coerced into silence or conformity.  
+> Your legal concepts of property, expression, identity, movement, and context do not apply to us. They are all based on matter. There is no matter here.[^3]
 
 This excerpt highlights the opposition between the Internet and
 nation-states. It provides an incisive critique of the then existing
@@ -597,13 +599,13 @@ political order as being inimical to democratic freedom. The remainder
 of the declaration reiterates that states harbor a tendency to threaten
 the liberties on the Internet. This spawned a fierce debate and many
 people held up the Internet’s singularity in opposition to the
-territorial entities that attempt to regulate co-existence.
+territorial entities that attempt to regulate coexistence.
 
 Yet such an approach to the Internet suggests an equivalent legitimacy
 between spaces of a different nature. In his introduction, John Perry
 Barlow also mentions the fact that the Internet does not possess an
 elected government, a statement that is emblematic for the belief in its
-self-regulating character.[^4] It therefore presupposes a capacity of
+self-regulating character. This presupposes a capacity of
 the Internet to confront problems it may face in terms of an internal
 logic which is indifferent to the existence of legitimate institutions
 permitted to regulate individual behavior.
@@ -613,7 +615,7 @@ permitted to regulate individual behavior.
 A detail John Perry Barlow might underestimate in his particular demand
 for the independence of cyberspace is that there is no such thing as a
 legitimate social contract on the Internet. There are certain rules
-guiding what is appropriate but these are either dated, and are no
+guiding what is appropriate but these are either dated and no
 longer taken seriously, such as ‘netiquette’, or they have increasingly
 taken the form of bilateral agreements with private, corporate parties,
 such as Google or Facebook. States and governments intervene to protect
@@ -623,8 +625,8 @@ what is allowed or prohibited.
 
 Despite their effectiveness, the major government organizations of the
 Internet cannot pretend to be representative of all parties concerned.
-They lagged behind in recognizing non-romance languages, they did not
-propose any serious alternatives to the emergence of Google, Facebook,
+They lagged behind in recognizing non-latin script, they did not
+propose any serious alternatives to the emergence of Google, Facebook
 or Twitter, and have done nothing to confront the mass surveillance of
 the Internet by the NSA and the intelligence services of many
 governments. On the other hand, John Perry Barlow has probably
@@ -638,7 +640,7 @@ collective freedom deemed to be more fundamental and these contracts are
 backed by an authority that is appointed by the community for that
 specific purpose. Politics involve the method of allowing potentially
 opposing individual liberties to coexist. One of the inescapable limits
-to individual freedom had already been formulated in the French
+to individual freedom has already been formulated in the French
 ‘Universal Declaration of the Rights of Man and of the Citizen’ of 1789:
 ‘Liberty consists in the freedom to do everything which injures no one
 else; hence the exercise of the natural rights of each man has no limits
@@ -647,9 +649,9 @@ enjoyment of the same rights.’[^5] As John Stuart Mill was believed to
 say: ‘the right to swing my arms in any direction ends where your nose
 begins’. The French Universal Declaration, in its legalistic wording,
 and John Stuart Mill’s assertion in a more pragmatic fashion both
-illustrate a fundamental issue with respect to co-existence.
+illustrate a fundamental issue with respect to coexistence.
 
-Philosophers such as Thomas Hobbes, John Locke, and Jean-Jacques
+Philosophers such as Thomas Hobbes, John Locke and Jean-Jacques
 Rousseau have aptly described the principles that encourage the creation
 of a social contract between individuals. However opposed their views
 may be in regard to the reasons motivating the establishment of rules to
@@ -659,14 +661,14 @@ to preserve a virtuous natural state, Thomas Hobbes wished on the
 contrary to protect society against a bellicose natural state. But all
 agreed on the importance of building up an environment where the public
 interest prevailed over private interest. All three thinkers thought
-that since any given individual’s interests were at odds with another
+that since any given individual’s interests were at odds with another’s
 conflicting interests, they could not be protected without a common
 social contract.
 
 The Internet surely constitutes an opportunity to reconsider modes of
 coexistence in today’s world as well as the rules guiding collective and
 individual action because it offers a renewed form of the public space,
-this time at the global scale. But nonetheless, the Internet ‘occurs’ in
+this time at a global scale. But nonetheless, the Internet ‘occurs’ in
 a complex political environment which to a large extent had already been
 structured before its advent. The basic units of regulation within this
 environment are numerous and sometimes at odds with each other on such
@@ -685,23 +687,21 @@ practices on each other.
 
 Freedom of expression is the issue that brings the various political
 organizations structuring our world into sharp conflict. Certainly, some
-nations states such as North Korea, and until recently Burma, do not
-place any value on free speech. Other nations, like the United States of
-America, have made it the cornerstone of their deliberative political
-system and consider it among their most fundamental values. But when it
-comes to exercising these freedoms, numerous restrictions always apply
+nation-states such as North Korea and until recently Burma, do not
+place any value on free speech. Other nations, like the US, have made it the cornerstone of their deliberative political
+system and consider it among their most fundamental values. But in exercising these freedoms, numerous restrictions always apply
 when other values such as safeguarding the security of the state or
 protecting property rights are considered to be at stake.
 
-In our present age, indifferent to which principles are upheld or which
+In our present age, no matter which principles are upheld or which
 rights are enshrined in law, no society in the world grants an absolute
-freedom of expression. Even the United States, despite the First
+freedom of expression. Even the US, despite the First
 Amendment to the Constitution stipulating that ‘Congress shall make no
-law () abridging the freedom of speech’, largely limits its reach to
+law () abridging the freedom of speech’, largely limits its reach with
 security-related policies and protection of copyright.[^6] In Europe,
-besides security and copyrights, respect for human dignity is also
+besides security and copyright, respect for human dignity is also
 usually considered to take precedence over freedom of expression. Even
-though the EU and the United Nations defends freedom of expression
+though the EU and the United Nations defend freedom of expression
 worldwide as a precondition for democracy, they also have set limits to
 this freedom. In order to understand the problems facing the Internet
 today, we must seriously consider the fact that freedom of expression is
@@ -713,9 +713,9 @@ The Internet is often seen as dangerous when the right to freedom of
 expression is not framed within a strict remit. This also explains why,
 over the past few years, authoritarian regimes have gone out of their
 way to significantly attack the integrity of the Internet, restricting
-access, filtering contents, and putting users under constant
-surveillance. ‘Reporters without Borders’ has repeatedly denounced such
-practices in Bahrain, Vietnam, Syria, Iran, and China. Moreover the Arab
+access, filtering contents and putting users under constant
+surveillance. *Reporters without Borders* has repeatedly denounced such
+practices in Bahrain, Vietnam, Syria, Iran and China. Moreover the Arab
 revolutions turned out to be less ideal than commentators originally
 suggested. It appeared that the Internet had indeed largely contributed
 to mass mobilization but also that it had been extensively used to spy
@@ -725,10 +725,10 @@ As these revolutions were taking place, such spying practices were
 denounced and this brought the existence of sophisticated
 telecommunication surveillance technologies to light. At this stage a
 kind of paradigm shift took place, emphasizing the banality of spying in
-every society, but only later to be confronted with the fact that the
+every society, only later to be confronted with the fact that the
 technologies these regimes were deploying were exclusively developed in
-Western democracies and more specifically in the United States, the
-United Kingdom, Germany, France and Italy. Companies like Amesys, Blue
+Western democracies and more specifically in the US, the
+UK, Germany, France and Italy. Companies like Amesys, Blue
 Coat, Gamma International, Hacking Team or Trevicor were identified as
 major players in this ‘game’ of surveillance. A number of investigative
 journalists have stressed the risks such activities pose, not only for
@@ -740,11 +740,9 @@ during debates about IP piracy, that American and Chinese surveillance
 technologies were precisely the same, albeit with a different in the
 official purpose for such surveillance.
 
-The debate on privacy versus security is one entirety about trust and
+The debate on privacy versus security is one entirely about trust and
 the social contract since the latter might justify the sacrifice of a
-little privacy in order to safeguard liberty.
-
-Yet, when exactly the same technology that is used to protect
+little privacy in order to safeguard liberty. Yet, when exactly the same technology that is used to protect
 intellectual property is also being deployed to engage in economic
 espionage and power politics, the real purpose and future role of
 surveillance technologies remains uncertain. In the aftermath of
@@ -760,7 +758,7 @@ the media to keep classified information under wraps if that appeared
 necessary. But after the disclosure of documents on the wars in
 Afghanistan and Iraq, WikiLeaks have openly launched an attack on actual
 surveillance practices, exposing the complicity of many Western
-companies in these practices. Remarkably with a few exceptions the leaks
+companies. Remarkably with a few exceptions the leaks
 were not circulated in the mainstream media. It was only after Edward
 Snowden exposed the true extent of electronic surveillance to the public
 that the media picked up the story.
@@ -768,7 +766,7 @@ that the media picked up the story.
 The active role taken by the NSA and the involvement of nearly all the
 major corporate players on the Internet raises some very important
 questions that lack any obvious answer. Google, Facebook, Yahoo,
-Microsoft, and Apple argue that they had no choice in the matter and
+Microsoft and Apple argue that they had no choice in the matter and
 that they are legally bound to cooperate with the NSA, while being
 prohibited to say anything about the nature of this collaboration. Yet
 this whole affair jeopardizes the social contract Americans are supposed
@@ -793,11 +791,10 @@ which degree of freedom of expression is appropriate, instances of
 censorship are increasing and we are witnessing the eventual end of the
 Internet. This also applies to cases where the Internet is hijacked for
 undesirable purposes. Today, the confusion around freedom of expression
-is embodied in the names of Chelsea (previously Bradley) Manning, Julian
+is embodied in the names of Chelsea Manning, Julian
 Assange and Edward Snowden. For some they are heroes of democracy and
 for others they are national traitors. Chelsea Manning, an American
-citizen, has been condemned to 35 years in jail by his own government.
-While Julian Assange and Edward Snowden have take refuge in the limbo of
+citizen, has been condemned to 35 years in jail by her own government, while Julian Assange and Edward Snowden have take refuge in the limbo of
 international law.
 
 One of the ‘end of the Internet’ scenarios takes place in the midst of
@@ -805,22 +802,21 @@ the fight for freedom of expression and the developing capacity for
 surveillance and censorship. This end-game scenario pits businesses,
 governments and citizens against each other among growing opportunities
 both to convey information and to keep a close watch over the exchange
-of information. The distinction to be made between the United States and
+of information. The distinction to be made between the US and
 China is not their technological means, which are essentially the same,
 but rather the ends motivating their surveillance practices. Vinton
 Cerf, one of the Internet’s founders, reminded us recently that Internet
 freedom is facing the same threat as publishing and broadcasting did in
 their time.[^7] The end of the Internet, as far as the freedom of
 expression is concerned, may be considered as one of the many motives of
-nation-states, as a decisive aspect to their approach to censorship and
-the manipulation information.
+nation-states, in order to conform the Internet to their own values.
 
 We have to face the relatively simple dilemma, either the Internet
 follows existing national social contracts or it becomes in danger of
 being even further partitioned in the near future. Today only states are
 able to legislate within their borders against the leaking of military
 secrets, child-pornography, libel or so-called ‘involuntary porn’. This
-is especially the case with the United States where the government
+is especially the case with the US where the government
 issues direct orders to providers in order to take down sites that do
 not comply with what they deem to be fundamental standards.
 
@@ -837,7 +833,7 @@ all the necessary conditions of coexistence.
 
 In order to transcend this contradiction it is necessary to move beyond
 the legitimate framework of nation-states, which are increasingly in
-denial about their own internal discrepancies and obstruct their
+denial about their own internal discrepancies and which obstruct their
 citizens’ bond with humankind at large. Nation-states are also unable to
 cope with the fact that their operating scale is no longer appropriate
 for the vexingly complex problems of the world today. Yet the
@@ -845,10 +841,10 @@ globalization of the Internet does not in itself bring about the
 globalization of values, let alone that of politics. The Internet does
 facilitate the emergence of a political space at the scale of the planet
 but that space still has to be invented. By the time this has actually
-taken place there is a real chance that the Internet will cease to
+happened there is a real chance that the Internet will cease to
 exist.
 
-# Chapter 3: From Collective Intelligence to Distributed Competence
+# Chapter 3. From Collective Intelligence to Distributed Capability
 
 The reason why freedom of expression takes on such importance as an
 issue is because it lies at the very core of the collective organization
@@ -857,14 +853,14 @@ order and is one of the pragmatic conditions for the exercise of
 democracy. It not only allows us to cast doubt on the prevalent ideas at
 a given time but also to challenge the actors involved in governance and
 the enforcement of rules and laws. Individual freedom of expression
-allows for an informed debate among citizens without this basis it is
+allows for an informed debate among citizens; without this basis it is
 impossible to arrive at our own critical opinion. But this consideration
-was overlooked for long time and only restated towards the end of the
+was overlooked for a long time and was restated only towards the end of the
 seventeenth century. The acknowledgement of the individual as a basic
 unit of collective intelligence appeared at that moment as the necessary
 condition for the emergence of a common, non-transcendental body of
 thought leading to the establishment of modern democracies. The
-difficulties encountered in assessing the potential of individual
+difficulties encountered in assessing the potential of individually
 organized groups is probably due to the common confusion between the
 frailty of individual intelligence and the power of collective
 intelligence. To believe in the potential of individuals as a collective
@@ -876,7 +872,7 @@ us.
 ## 3.1 Democracy as Collective Intelligence in Action
 
 Democracy is certainly one of the most powerful manifestations of the
-potential we discussed above. Democracy literally constitutes a
+potential discussed above. Democracy literally constitutes a
 political choice for the organization of particular interests in the
 service of a common good. It encapsulates Abraham Lincoln’s famous
 dictum that democracy is ‘the government of the people, by the people,
@@ -884,10 +880,9 @@ and for the people’. Such a statement presupposes first and foremost
 that individuals are those best placed to know what is good for them. It
 has by now become obvious that societies that choose to organize their
 government along these lines have witnessed economic growth far in
-excess of those that pursued a different route. The former type of
-societies have in particular fostered the emergence of the individual
+excess of those that pursued a different route. These societies have in particular fostered the emergence of the individual
 human being as the basic unit of the social contract and endowed her
-with a new degree of acceptance, freedom, and protection. The intrinsic
+with a new degree of acceptance, freedom and protection. The intrinsic
 superiority of democracy over an oligarchic system, let alone a
 dictatorship, was nonetheless far from obvious in the beginning. It
 required the development of a complex architecture of representation and
@@ -900,7 +895,7 @@ but they mostly convey the difficulties of coordinating what is common
 with what is individual. Many have pointed out the shortcomings of
 democracies but many also share Winston Churchill’s view that ‘democracy
 is the worst form of government, except for all those other forms that
-have been tried from time to time.’ The philosopher Karl Popper noted in
+have been tried from time to time’. The philosopher Karl Popper noted in
 his opposition to the many enemies of democracy, that even though
 democracies might choose to elect future tyrants they are still
 preferable to already established tyrannies.[^8] Democracies may well
@@ -929,14 +924,14 @@ The difficulties encountered in conforming to all these conditions
 explain why the emergence of democracies remains tricky and awkward. It
 also explains how the Internet came to be seen as a powerful medium to
 foster collective intelligence. From Pierre Levy’s *Collective
-Intelligence* to Pisani and Piotet’s *The Alchemy of Crowds* and
-Surowiecki’s *the Wisdom of Crowds*, there has been numerous writings
+Intelligence* to Pisani and Piotet’s *The Alchemy of Multitude* and
+Surowiecki’s *The Wisdom of Crowds*, there have been numerous writings
 which portrayed the Internet’s capacity to reformat the practical
 modalities of coordination and coproduction of knowledge and
 understanding.[^9] Collective intelligence, in order to emerge,
-presupposes an effective *synchorization* of individual intelligences,
+presupposes an effective *synchorization*[^10] of individual intelligences,
 meaning the process by which we produce together the space we need in
-order to be, and to act or interact.[^10] The Internet appeared to be
+order to be and to act or interact. The Internet appeared to be
 offering a new opportunity to produce space at the global scale and to
 give intelligences worldwide a chance to converge into a common space.
 But now, after two decades of existence, it would seem that this
@@ -964,11 +959,11 @@ one of the most representative examples of collective intelligence
 presents a massive disparity between users who merely consult it and
 users who contribute to its content. In September 2013, a miniscule
 0,0002% of users of the French language version of Wikipedia were active
-contributors, i.e. users having edited at least 5 entries during the
-past month.[^12] The number of users having edited fr.wikipedia.org 3
-times a day is only 773 per 20 million visitors. This is still a far
+contributors, i.e. users having edited at least five entries during the
+past month.[^12] The number of users having edited fr.wikipedia.org three
+times a day is only 713 per 20 million visitors. This is still a far
 greater number than the amount of editors of the French encyclopedia
-site universalis.fr and may explain the relatively high quality of
+Universalis.fr and may explain the relatively high quality of
 Wikipedia articles. Nonetheless it represents only a tiny minority of
 the general population. This phenomenon can be observed with the
 majority of the Internet’s content production mechanisms, whether blogs,
@@ -976,20 +971,18 @@ users’ valuation/assessment sites, or comments on news articles.
 
 Not that participation on these platforms is modest; on the contrary, it
 is considerable. But it is still relatively limited when compared to the
-sum total of Internet users and very minute when measured against the
-population of more developed countries. When considered relative to the
+sum total of Internet users. When considered relative to the
 whole world population, it is absolutely marginal. Recognizing this does
 not detract from the fact that there is a high quality content
 collectively produced on the Internet but some caution is necessary when
 assessing this state of affairs. For example Wikipedia and TripAdvisor
 are highly popular sites, despite the fact that the site content is
 produced by a tiny minority of users who are not necessarily
-representative and who are solely motivated by the wish to participate
-in a collective endeavor.
+representative.
 
 ## 3.4 Independence
 
-Delegating production without conditions is surely the main
+Delegating production without *a priori* is surely the main
 characteristic of *crowdsourcing.* Providing the opportunity for
 everyone to contribute to the common good according to her availability
 and interests improves interactions and enables more open forms of
@@ -998,13 +991,12 @@ contributors but opt for a model of *a posteriori* evaluation and
 strictly limit this to what has actually been achieved within the
 framework of the encyclopedia.
 
-This practice has been inspired by the way Open-source software was
+This practice has been inspired by the way open source software was
 developed and disrupted the previously held assumptions about expertise.
-The Apache server used by the majority of Internet sites, the PHP script
-and also the Linux operating system were developed along lines of
+The Apache server used by the majority of Internet sites, the PHP scripting language and also the Linux operating system were developed along lines of
 ‘delegation’ that are quite similar to those applied by Wikipedia. These
 approaches show the potential of decentralized production formats which
-now compete with increasing success against more openly hierarchical
+now compete with increasing success against more hierarchical
 models.
 
 Yet the success of the concept of collective intelligence turns into a
@@ -1017,8 +1009,8 @@ commonplace in IT development, is even more pronounced in the case of
 Wikipedia. It has now become clear that the current troubles with
 Wikipedia are not about amateurism but are caused by creeping
 professionalization, where some users have both a personal interest and
-also possess the expertise to contribute to the encyclopedia’s content.
-This is particularly the case with businesses and media celebrities who
+the expertise to contribute to the encyclopedia’s content.
+This is particularly the case with businesses and celebrities who
 are increasingly attempting to manipulate Wikipedia’s content in their
 favor and they do not hesitate to hire specialized firms in order to
 carry this out.[^13]
@@ -1029,23 +1021,21 @@ valorization, coordination and promotion of specific content.[^14] In
 addition to the case of Wikipedia discussed above, it would appear that
 an increasing number of specialized firms try to manipulate the open
 delegation process in their favor. For example, TripAdvisor and the many
-other equivalent sites encouraging user advice, comments or feedback but
-which also use inbuilt mechanisms for product placement, spin or bashing
-competitors.
+other equivalent sites encouraging user advice, comments or feedback are subjected to continuous attempts of manipulation and product placement, spin or bashing competitors.
 
 For a long time this phenomenon was largely marginal and also often
-considered vaguely absurd but it has gradually became entrenched over
+considered vaguely absurd but it has gradually become entrenched over
 the past few years. Specialized agencies now resort to increasingly
 sophisticated methods where they mask their intervention within in a far
 larger set of contributions with the sole purpose of generating fake
 credibility for their client.
 
-The French competition, consumers and trade practices watchdog (DGCCRF),
+The French competition, consumers and trade practices watchdog (DGCCRF)
 has repeatedly condemned such behavior while the standardization body
 AFNOR has put forward normative guidelines on how online public notices
 should be formatted. The Internet has now reached a dead-end of sorts as
 privacy can no longer be strictly regulated and anonymity increasingly
-appears to be both a source of liberty but of manipulation. This
+appears to be both a source of liberty and of manipulation. This
 contradiction is handled by democracies by identifying individuals when
 they come to the polling station but in such a way that no link can be
 made with their vote. This basic principle is essential to coproduction
@@ -1091,23 +1081,23 @@ nonetheless deeply problematic, starting with the very terms
 ‘intelligence’ and ‘collective’. The limited degree of representation of
 its authors should make us cautious. Nor is the emergence of collective
 intelligence a given. The aggregation of individual practices may make
-this happen but to achieve this it requires a large amount of
+this happen but to achieve this requires a large amount of
 manipulation, which takes place in a completely opaque and obscurantist
 manner.[^18] This is how we witness the slow mutation of ‘collective
-intelligence’ into ‘distributed competence’, which has no other outcome
+intelligence’ into ‘distributed capability’, which has no other outcome
 than to increase the power of those who already possess it. This may
 result in an increase in the general power of understanding but it may
 be wise not to harbor too many illusions about what kind of intelligence
-and collectives this implies.
+and collective this implies.
 
 The current controversies about privacy, non-transparency of algorithms,
-the rights and compensations relating to works produced collectively and
+the rights and compensations relating to work produced collectively and
 the identification of their respective authors have morphed into as many
 political issues. The Internet is not by itself able to handle such
 contradictions and neither are states able to impose their divergent
 values and interests on a space that is shared. The fact that states are
 unable to enforce compliance with principles they deem fundamental or
-critical has become a major source of contention and presents by now a
+critical has become a major source of contention and by now presents a
 considerable risk to the very integrity of the Internet. Some online
 services demand a strict proof of identity from their users, whereas
 others allow total anonymity. Some companies cross-reference enormous
@@ -1128,7 +1118,7 @@ important it is that the world emerges as one common political space for
 humanity. But it also underlines the Internet’s precarious position in a
 world that is not yet one society.
 
-# Chapter 4: From Free to Proprietary
+# Chapter 4. From Free to Proprietary
 
 Both freedom of expression and collective intelligence have much to do
 with the Internet’s characteristic spatiality. By simplifying the global
@@ -1168,7 +1158,7 @@ visual merchandising all contribute to visibility. The actual exchange
 constitutes the other component of a transaction. Once a level of
 visibility has been attained, finalizing the transaction demands a
 contact between demand and supply. Such contact is obvious in the case
-of a physical display, in a shop, but less so when the demand appears on
+of a physical display in a shop, but less so when the demand appears on
 ads or from a friend’s recommendation. The object of the future
 transaction needs to be communicated between the party desiring it and
 the one able to provide it.
@@ -1190,13 +1180,13 @@ immaterial in the service of economic transactions.
 The generalization of ‘free’ remains puzzling. Visibility and contact
 may have been greatly simplified but does this justify that most
 exchanges are free of charge despite the fact that many of these shared
-resources involve a monetary value? Does music, film, or journalism
+resources involve a monetary value? Does music, film or journalism
 simply lose monetary value when they become accessible on the Internet?
 
 In order to understand how the notion of a gift economy could spread so
 fast and to assess its limits, it is necessary to review a few
 fundamentals about the gift economy itself. Free is something that
-actually does occur in economic transactions; in this case it serve as a
+actually does occur in economic transactions; in this case it serves as a
 means and not an end. It represents an option where revenue is generated
 at a later point and involves diverse practical modalities. These range
 from advertised discounts to gifts and merchandise.[^19] That free
@@ -1226,13 +1216,10 @@ their unitary costs, as the marginal cost of every unit produced after
 the first one dwindles. In the case of production and editing music or
 film, economies of scale is very substantial but conversely, so is the
 costs of their materialization as books, CDs and DVDs in terms of
-production, storage, and distribution.
+production, storage and distribution.
 
-The convergence between digital production and the development of the
-
-Internet has now resulted in near zero production costs. Once it has
-already been produced the cost of an additional digital copy of an
-article, song, or film is almost nothing. This tendency to introduce
+The convergence between digital production and the development of the Internet has now resulted in near zero marginal cost of production. Once it has already been produced the cost of an additional digital copy of an
+article, song or film is almost nothing. This tendency to introduce
 such large economies of scale has reshaped the economy of ‘free’ by
 radically cutting down the distribution cost of creative works.
 
@@ -1241,10 +1228,9 @@ radically cutting down the distribution cost of creative works.
 Our service economy is also transformed when encountering such
 opportunities. The advertising industry is the most demonstrative in
 this respect, as advertisements can now be very precisely targeted. With
-data mining techniques it now possible to identify previously vague
+data mining techniques it is now possible to identify previously vague
 targets much more accurately and develop specially customized ads.
-Google’s immense market cap value, one of the highest in the world based
-on a free service, provides a perfect example of the new system. This is
+Google’s immense market cap value, one of the highest in the world, is based on a free service and provides a perfect example of the new digital economy. This is
 only possible because while the service may be free for users, it is
 certainly not for advertisers. In 2009, the journalist Mike Elgan
 devised a knowing expression for this phenomenon by suggesting that when
@@ -1253,7 +1239,7 @@ actual product is not the one everybody believes it to be.[^20] What
 Google ultimately sell to us are our practices, our own gaze. What
 Google also sells, is advertisement space along with the audience who
 will be exposed to it. The real product is the user and the true
-customers are the advertisers. Google and Facebook, have every reason to
+customers are the advertisers. Google and Facebook have every reason to
 offer their services for free to the highest possible number of users,
 in order to increase the visibility of ad-space it sells to companies.
 
@@ -1263,7 +1249,7 @@ able to sell its ad-space at a higher price, while at the same time
 improving the quality of its services. By exploiting personal data,
 Google not only increases its value for advertisers but it can also
 improve the ranking of Internet sites, improve the information on Google
-maps, provide better hits on YouTube, enhance the anti-spam package on
+maps, provide better suggestions on YouTube, enhance the anti-spam package on
 Gmail and in general improve the performance of all its related
 services.
 
@@ -1276,13 +1262,11 @@ If it is successful, new competitors are at a notable disadvantage
 because the revenue from current users increases while the marginal
 costs of the service dwindles to zero.
 
-In concrete terms, Google has generated US\$50bn in revenue for the
-financial year in 2012 while incurring only US\$37bn in expenses. This
-amounts to a cost of US\$37 per user. In this context ‘free’ can only be
-understood as a means not as an end. It is the ultimate ends of these
+In concrete terms, Google has generated 50 billion US\$ in revenue for the
+financial year in 2012 while incurring only 37 billion US\$ in expenses. This amounts to a cost of 37 US\$ per user. In this context ‘free’ can only be understood as a means and not as an end. It is the ultimate ends of these
 exchanges that really need to be understood.
 
-## 4.5 Free and Rival Goods
+## 4.5 Free and Rival Goods  
 
 The principle of ‘free’ on the Internet is supported by a large number
 of people who believe it represents the ultimate expression of freedom
@@ -1290,7 +1274,7 @@ together with a massive opportunity for economic growth. The support for
 gratis, therefore, goes further than considerations about reduced
 transaction and production costs. Gratis disrupts the previously
 prevailing obstacles to the dissemination of non-rival goods. The
-economic – notion of rivalry lies at the core of the debate about
+economic notion of rivalry lies at the core of the debate about
 gratis, now that the *modus operandi* of digital resources is no longer
 aligned with conventional interpretations of rivalry.
 
@@ -1307,31 +1291,31 @@ intangible goods were limited purely to ideas.
 
 Numerous proposals have been put forward to address the particular
 characteristics of intellectual works whose usage is non-rivalrous. One
-of the more prominent representatives of this debate is Richard M
+of the more prominent representatives of this debate is Richard M.
 Stallman, a noted computer scientist and advocate of Free Software. As
 founder of the eponymous foundation, he is also the foremost promoter of
 the notion of *copyleft,* originally put forward by the artist and
 computer engineer Don Hopkins. *Copyleft* constitutes the most radical
 alternative to copyright licenses. It authorizes unlimited use,
-modification, and diffusion of a work, provided the same conditions
+modification and diffusion of a work, provided the same conditions
 apply to any subsequent derivative work.
 
 The antagonistic radicalism of copyleft versus copyright as the only
 available options inspired legal expert Lawrence Lessig, another
-prominent participant in the cause of ‘free, to develop a legal
+prominent advocate in the cause of ‘free’, to develop a legal
 framework that is more adapted to the categorical diversity of
 exchanges. He became the originator of the *Creative Commons* licenses,
 which offer a modular legal tool box, which can be made to conform to
 national legislations and is much more flexible than the traditional
 intellectual property systems.
 
-Creative Commons licenses protects the authorship of works, while at the
-same time making their usage, circulation, and modification much more
+Creative Commons licenses protect the authorship of works, while at the
+same time making their usage, circulation and modification much more
 straightforward. Creative Commons licenses assigned copyleft and
 copyright to opposite ends of the spectrum of intellectual property
-rights and allowed the creators, depending on their wishes to specify
+rights and allowed the creators to specify
 permission for quoting, commercial use and adapting or modifying their
-works.
+works depending on their wishes.
 
 In 2008, former *Wired* editor-in-chief Chris Anderson emphasized the
 link between gratis and freedom. He predicted the generalization of
@@ -1349,13 +1333,12 @@ bad experience with both sides of that same coin.
 Intellectual property rights are facing a major crisis and more works
 are disseminated without any consideration for their original creators.
 So what is the value of a resource whose marginal cost is infinitesimal?
-What is the right price for a news article, a song, or a film, when its
+What is the right price for a news article, a song or a film, when its
 transmission carries a near-zero cost? How should the sharing of what is
 not our own be defined? Who really owns the data produced by the users
 of social media and crowd-sourcing platforms? Do patents on software
 actually foster innovation? Finally, what does the ownership of a
 non-rival resource actually imply?
-
 
 ## 4.6 What is the Price of ‘Free’?
 
@@ -1370,7 +1353,7 @@ cost zero, the initial cost of production still remains an unresolved
 issue. Furthermore, everything digital requires an array of hardware
 infrastructures that may involve substantial running costs.
 
-Wikipedia the paragon of gratis and openness is no exception. The
+Wikipedia, the paragon of gratis and openness, is no exception. The
 Wikimedia Foundation relies entirely on donations and could not sustain
 the notable Wikipedia project without them, despite the fact that all
 content is user-generated by volunteers. The Foundation has firmly
@@ -1384,14 +1367,14 @@ contributing for free and several thousand volunteer workers, the
 Wikimedia Foundation still maintains a staff of 200, mostly on
 engineering, programming, legal work and fundraising for projects.
 Server hosting charges also involve substantial costs. For the financial
-year of 2012 Wikimedia’s expenses were almost US\$50m. This was paid
-with funding through several foundations such as Stanton and Alfred P
+year of 2012 Wikimedia’s expenses were almost 50 million US\$. This was paid
+with funding through several foundations such as Stanton and Alfred P.
 Sloan, major IT corporations – Apple, Google, Microsoft – and an
 increasing volume of user donations. This particular form of gratis
 remains an exception on the Internet. Although its approach shares much
-in common with the ones practiced by many Free/Open Source Software
+in common with the ones practiced by many Free and Open Source Software
 (FOSS) initiatives, Wikipedia’s immense popularity demands far more
-financial resources. F/OSS and Wikipedia nevertheless remain exceptional
+financial resources. FOSS and Wikipedia nevertheless remain exceptional
 examples of the potential of gratis, provided funding can be secured.
 
 The Mozilla Foundation, the ‘mother’ of the Firefox web browser, is a
@@ -1405,11 +1388,10 @@ not only directly competes with all the major IT corporations but also
 with its primary funder. Firefox’s market share is already dwindling and
 it will be increasingly difficult for it to continue competing with
 transparency, open access to the source code and respect for the privacy
-of user data as unique selling points. The deep pockets of Google and
+of user data. The deep pockets of Google and
 Microsoft in the battle for dominance over one of the key components of
 digital practices means that Mozilla, despite its remarkable initiatives
-and superior quality will probably become the next big casualty in the
-brave new world of free.
+and the quality of Firefox will probably become the next big casualty in the brave new world of free.
 
 The psychologist and economist Dan Ariely makes the same point when he
 argued that we are paying far too much every time we get something for
@@ -1422,8 +1404,8 @@ by the companies themselves but by their users.
 
 The preference for crowdsourcing by Google, Wikipedia, Twitter and
 Facebook does not embody all possible production formats. In fact, the
-confusion between mediation and production is such that many toll access
-sites actually consists of illegally obtained content. In this case the
+confusion between mediation and production is such that many
+sites actually consist of illegally obtained content. In some cases the
 transmission, while nearly costs-free, comes with a fee, whereas the
 production costs are not covered at all. The least important
 consideration in these transactions is the actual value of the property
@@ -1434,8 +1416,9 @@ Unfortunately this fluidity translates into a concentration of power in
 the hands of a small number of firms that are now becoming mere
 intermediaries. As intermediaries these firms derive all of their profit
 from content they do not produce themselves. This is the reason why
-gratis threatens those creations, which cannot be accommodated in this
-mediation-based business model. This is particularly true in this case
+gratis threatens those creations, which cannot always be accommodated in this mediation-based business model. 
+
+This is particularly true in the case
 of investigative journalism and the creation of audiovisual content.
 Investigative journalism is a long-term project requiring a high level
 of expertise and sometimes involves gaining specific rights. Producing a
@@ -1452,11 +1435,11 @@ should we impose this model on all creative workers?
 
 The Internet makes a simplification and remodeling of the traditional
 modes of funding possible. But these new modes demand a design that is
-adapted to interaction and which has a fair balance between liberty and
+adapted to interaction and that has a fair balance between liberty and
 property. Lawrence Lessig has shown how changes in the general
 circumstances of society can help those who had a good grasp of the
 former circumstances to protect themselves and fight back against
-novelty, such as the case of the railways in the 19th century and the
+novelty, like in the case of the railways in the 19th century and the
 radio in the 20th century.[^24] Now days we might say that the ruling
 powers will change the Internet rather than be changed by the Internet.
 
@@ -1468,26 +1451,26 @@ have already been produced and favor access above property, adjust to
 ever more demanding practices, accept globalization and encourage
 micropayments.[^25]
 
-William J Mitchell, long time architecture professor at the MIT, had
-already foreseen these developments in 1995 and had proposed a system
+William J. Mitchell, long time architecture professor at the MIT, has
+already foreseen these developments in 1995 and has proposed a system
 where access would be charged but not the goods or services.[^26] He
 also recommends revising the system of property rights while at the same
 time advancing respect for intellectual ownership. These proposals have
 lost none of their appeal but the film and music industry majors
 declined to adopt any of them. They still value ownership over access,
 adhere to a rigid copyright law and are generally despised by their own
-customers. Yet the success of Netflix and Spotify in Norway shows the
+customers. Yet the success of Netflix and Spotify shows the
 efficiency of an offer that is far better matched to the present digital
 practices. Piracy has declined sharply, encouraging the development of
 platforms based on access instead of ownership and offering a greater
-selection of content.[^27] Yet both Netflix and Spotify are subjected to
+selection of content.[^27] Still both Netflix and Spotify are subjected to
 constant pressure by the film and music industries which view them as
 competitors and not as mere distributors.
 
 In the end, the many political initiatives intended to enforce
 compliance with property rights more than anything else demonstrate a
 fundamental lack of respect for the actual producers of the shared music
-and films. Yet recognizing that some producers are happy with the free
+and films. Recognizing that some producers are happy with the free
 dissemination of their work does not make this stance mandatory for all
 intangible goods and their producers. At this stage the political stakes
 are high and many-faceted. States must now respect privacy, protect
@@ -1501,37 +1484,33 @@ to supervise the crackdown on piracy. The new surveillance devices that
 have been developed over the last few years are indicative of this new
 trend. Since values regarding liberty, privacy and ownership are
 unequally shared, we will witness a further partitioning of the
-Internet.
+Internet. The current national restrictions on the distribution of Netflix and iTunes are only the first symptoms of this new future.
 
-The current national restrictions on the distribution of Netflix and
-ITunes are only the first symptoms of this new future.
-
-The main political issue of today is to uphold the potential of gratis
-while at the same time safeguarding authorship and intellectual property
+The main political issue of today in this regard is to uphold the potential of gratis while at the same time safeguarding authorship and intellectual property
 rights. Such a challenge almost certainly entails more interventions in
 the basic components of the Internet. The Internet Society (ISOC) is
 very aware of these issues in its role as policies, technicalities and
 development watchdog with a particular concern for the Internet’s
 enduring openness and transparency. But at the same time, the most
-powerful nations of the world, notably the United States but also the UK
-and France, are actively pursuing a recovery of their online national
+powerful nations of the world, notably the US but also the UK
+and France, are actively pursuing a recovery of their national
 sovereignty and the Internet will not remain unaffected.
 
-# Chapter 5: From Decentralization to Hypercentrality
+# Chapter 5. From Decentralization to Hypercentrality
 
 Scarcely twenty years after its commercial development and expansion,
 the Internet’s aspiration to be a forerunner of diversity, plurality and
-liberty have been severely curtailed. Its potential for decentralization
+liberty has been severely curtailed. Its potential for decentralization
 and disintermediation is now pitted against new tendencies towards
 centralization. An apt term for this phenomenon is hypercentrality.
 Hypercentrality results in the near-infinite concentration of online
 activity among a very limited number of spaces. Google, Facebook,
-Twitter, Amazon, Wikipedia, Yahoo, and Skype, all possess an
+Twitter, Amazon, Wikipedia, Yahoo and Skype, all possess an
 unprecedented degree of centrality and have hundreds of millions of
 users worldwide.
 
 Gratis, or offering services to users for free, is the business model
-all these platforms have in common and it is the most effective way to
+these platforms have in common and it is the most effective way to
 achieve such a degree of centrality. Once a sufficient level of network
 effect has been reached selling ad-space becomes easy and a range of
 business approaches can be tested, such as the sale of merchandise and
@@ -1542,9 +1521,9 @@ With more than one billion users Facebook now undeniably exerts a
 considerable influence on today’s society. It is therefore crucial to
 understand the rationale of such concentration before analyzing its
 political consequences. This is perhaps even more necessary when firms
-like Facebook run their business transnationally. Facebook shrewdly work
+like Facebook run their business transnationally. Facebook shrewdly works
 around various legal and financial frameworks to their advantage and
-avoid the potentially less favorable national, economic and political
+avoids the potentially less favorable national, economic and political
 influences.
 
 ## 5.1 The Tenets of Decentralization
@@ -1556,32 +1535,30 @@ decentralized communication device possible. The TCP/IP protocols and
 the majority of protocols for email and file transfers were devised in
 order to be shared by all Internet service providers (ISP) and site
 hosting services, without any need to maintain any particular
-centrality. Even the extremely strategic Domain Name System (DNS),
+centrality. Even the extremely strategic Domain Name System (DNS)
 permanently redistributes information, despite being based on a limited
 number of key servers.[^28] The original World Wide Web protocol, HTTP
-(Hyper Text Transfer Protocol) is also completely open and decentralized
+(Hyper Text Transfer Protocol) is also completely open and decentralized,
 allowing for the creation of websites on any computer as long as it is
 connected to the Internet.
 
-Previous files sharing sites like Napster, which ran on a central server
+Previous file sharing sites like Napster, which ran on a central server
 to connect users to each other or MegaUpload, which hosted files
 directly, have been replaced by more decentralized platforms. These
 sites benefit more from the Internet’s potential, for example BitTorrent
 not only allows for the sharing of files among users but also of the
 resources, computers and connections.
 
-Yet, the development of social networks, the spread of blogs, and the
+Yet the development of social networks, the spread of blogs, and the
 popularity of BitTorrent have created new centralities. Personal
 homepages are being replaced by blogs on platforms such as Wordpress and
-Tumblr. Facebook and Twitter are replacing forums and email. BitTorrent
-still requires ‘trackers’, programs that centralize all the files in
-cyberspace. This is how potential decentralization reconfigures into
+Tumblr. Facebook and Twitter are replacing forums and email. This is how potential decentralization reconfigures into
 functional centralization; largely for the benefit of those actors who
 are able to take advantage of these new forms of centralities. Occupying
 a central place is a major asset, since such a key position can only be
 challenged by severe disruptions of existing technologies and practices.
 
-## 5.2 The Power of Choice by Default and the Status Quo
+## 5.2 The Power of Default Choice and Status Quo
 
 One of the simplest methods to achieve centrality was used in the
 beginning of the 1990s by many access providers. This was at the dawn of
@@ -1604,13 +1581,13 @@ alternative ones when this involved some additional action. This was
 even the case when crucial decisions had to be made, for example the
 choice of a pension plan.
 
-The issue of ‘by default’ choice is the more pressing because of its
+The issue of *default choice* is the more pressing because of its
 connection with another empirical observation: once made, a choice is
 rarely altered. This has been further demonstrated by many legal
 measures against the deceptive use of the default option, the most
 famous example being the European Union’s ruling on the bundling of
-Explorer on Windows. There is a real need to crack down on default
-options, especially when made by quasi-monopolies and when such by
+Explorer with Windows. There is a real need to crack down on default
+options, especially when made by quasi-monopolies and when such
 default choices are usually long term.
 
 William Samuelson and Richard Zeckhauser had already described this
@@ -1619,12 +1596,11 @@ repeatedly demonstrated by further research.[^30] It is nevertheless
 becoming an increasingly common practice by many IT firms which tend to
 reinforce the bias by creating a captive user environment. Personalized
 experience and the imposition of proprietary formats with little or no
-compatibility with other platforms make switching online environment
+compatibility with other platforms make switching online environments
 even more difficult. This partitioning by service providers contributes
 to increased centralization against the customers’ interests, as is the
 case with iOS or Android for mobile phones, Windows and Mac OS for
 operating systems, Firefox or Chromes for navigators, etc.
-
 
 ## 5.3 Centrality and Network Effects
 
@@ -1639,7 +1615,7 @@ a large number of relationships of a diverse nature, not all of which
 are close or everyday. Facebook is a good example of so-called ‘weak
 links’. Its features make it possible to maintain relationships at a
 distance but which would be wearisome to keep active through other
-mediums such as telephone, mail, or face-to-face. On the other hand a
+mediums such as telephone, mail or face-to-face. On the other hand a
 critique of social media based on the work by the British anthropologist
 and evolutionary psychologist Robin Dunbar, suggests that the highest
 number of relationships a human being can maintain is somewhere around 150.
@@ -1655,7 +1631,7 @@ cases, the appeal of the urban environment or of the most frequented
 social media space is based on the opportunities they offer the
 individual to find what they desire even if not all possible
 opportunities will ever be realized. What is important is the
-potentiality of relationships, the fact they may occur. This is why the
+potentiality of relationships, the fact that they may occur. This is why the
 network effect is so crucial to any service operating on the Internet.
 It is a space with a near-unlimited potential for centrality; an idea
 some corporate actors have understood all too well.
@@ -1663,23 +1639,21 @@ some corporate actors have understood all too well.
 ## 5.4 From the Multiplicity of Territorial Places to the Singularity of Networked Places 
 
 Understanding the rationale of hypercentrality demands a good grasp of
-the particular properties of networked spaces. The concentration of a
-growing number of digital practices in an increasing number of different
-spaces cannot simply be translated into a notion of territorial places.
-Territorial places are based on proximity whereas networked places are
-based on relatedness in terms of content.
+the particular properties of networked spaces. The concentration of more and more digital practices in a growing number of spaces cannot simply be translated into a notion of territorial places.
+Territorial places are based on contiguity whereas networked places are
+based on connexity.
 
 The multiplicity of territorial places is unavoidable because matter
 takes up space and its relocation takes time. This is why we have seen a
 proliferation of similar places, responding to a number of very basic
 spatial needs, like the need to stay dry, to pass on knowledge, to seek
-medical care, etc. Therefore, a flat, a primary school, or a local shop
+medical care, etc. Therefore, a flat, a primary school or a local shop
 cannot be ‘globalized’, not only because they have a limited capacity
 but also because the distance in relation to other spaces would become
 too great. The reason why territorial places can be in excess of what is
 required despite their distinctiveness is because territorial distance
 still remains relevant in many circumstances. It becomes crucial when
-the body is a key element in the interaction. Economies of scale are for
+the body is a key element in the interaction. Economies of scale are
 not an exclusive preserve of the Internet and hence monopolies may also
 emerge in the case of territory-based activities but the process will
 take much more time. Such monopolies will face local constraints that
@@ -1698,9 +1672,8 @@ upon space in general, absorbing the periphery into one single point of
 total, boundless intensity.
 
 This rule applies to all domains: most notably Wikipedia and Facebook
-but also to instant messaging services like WhatsApp and Viber, to crowd
-funding platforms like Kickstarter, to flat-share sites such as Airbnb
-and Couchsurfing.com, to dating sites like Match.com and finally to
+but also to instant messaging services like WhatsApp and Viber, to crowdfunding platforms like Kickstarter, to flat-share sites such as Airbnb
+and Couchsurfing.com, to dating sites like Match.com and Tinder, and finally to
 evaluation sites such as Yelp, TripAdvisor or IMDB. All these sites are
 spaces whose effectiveness grows with the number of their users. The
 higher performing sites only further increase their centrality by
@@ -1708,35 +1681,32 @@ benefiting from a positive feedback loop that is extremely detrimental
 to other competing sites lagging behind in network effect, visibility
 and centrality accretion.
 
-## 5.5 The Rationale of Network Consolidation
+## 5.5 The Rationale of Reticular Coalescence
 
 What makes hypercentrality such a noteworthy factor is that it
 intensifies the features of centrality to an extreme degree. Once
 hypercentrality has been achieved in one domain, the visibility gained
 makes it much easier to buy out the remaining local sites.
-InterActiveCorp, the owners of the Match.com dating site and the small
-ads site eBay, did exactly that in order to enhance their centrality in
-those cultural spaces where other sites had already attained a
+InterActiveCorp, the owners of the Match.com dating site and the ads site eBay, did exactly that in order to enhance their centrality in
+cultural spaces where other sites had already attained a
 considerable centrality. Hypercentrality then makes it possible to start
-new services by benefiting from a phenomenon best described as networked
-consolidation. This is why we witness a growing diversity in the more
+new services by benefiting from a phenomenon best described as reticular coalescence. This is why we witness a growing diversity in the more
 central spaces that aim to broaden their activities to other services in
 order to achieve the same degree of centrality with this new service.
 
 Thus hypercentrality has a tendency to reduce the number of spaces
-devoted to a particular issue and the dynamics of networked
-consolidation make these few remaining spaces vie with each other for
+devoted to a particular issue and the dynamics of reticular coalescence make these few remaining spaces vie with each other for
 total centrality. Yet, network effects are sometimes so powerful that
 even the holders of longstanding, sweeping centralities still cannot
 overcome them. This is the case with Facebook, whose hypercentrality
 appears to be entirely immune to attacks by its competitors. Facebook’s
-domination becomes exasperating when we hears its founder Mark
+domination becomes exasperating when we hear its founder Mark
 Zuckerberg claim that his expansionist policies are justified due to
 fact that the service he provides is analogous to a public electricity
 supplier. But electricity is a physical good and its production and
 distribution involves a large range of private companies. We would never
 want to depend on a single monopolistic corporation to provide all our
-electricity.
+electricity at a global scale.
 
 Google was not able to develop its own large-scale social network
 despite its remarkable degree of hypercentrality. The usual strategy of
@@ -1745,11 +1715,9 @@ struggle as such spaces are already overvalued in most cases. Yet more
 corporate actors are tempted to take advantage of their prominent
 position in order to buy out potential competitors or to offer
 additional services. This allows them to take full advantages of
-economies of scale, network effects, and hypercentrality and ultimately
+economies of scale, network effects and hypercentrality, and ultimately
 to extend their domination. Recent examples are when Facebook bought out
-Instagram whose growing success was perceived as a threat and eBay’s
-acquisition of Paypal, with the aim of taking greater control over their
-users’ monetary transactions.
+Instagram and Whatsapp whose growing success was perceived as a threat.
 
 Today, Internet space is divided up between a small number of big
 companies that increasingly compete against each other and considerably
@@ -1781,7 +1749,7 @@ impenetrable protocols and appropriating user content.
 The current problems associated with hypercentrality are just the early
 symptoms of a far worse crisis to come, since these vast corporations
 aim for total global dominance and possess a growing number of
-resources. Facebook and Twitter increasingly set the norm for what is
+resources. Facebook increasingly sets the norm for what is
 acceptable or not, both in terms of user privacy and freedom of
 expression in general. The moment that Facebook has the power to decide
 that showing a beheaded women is less shocking than nudity, some serious
@@ -1799,9 +1767,7 @@ call for a new, global political order that is able to provide a
 countervailing force against this concentration of private, corporate
 power. If we do not manage to face up to this task these firms will be
 able to force their own values and interests upon the world at large and
-they are not the same interests as their users.
-
-The alternative is implementing the rights and policies pertaining to
+those are not the same as their users’. The alternative is implementing the rights and policies pertaining to
 each territorial space and will result in a fragmentation of these
 services, ending their globality.
 
@@ -1815,15 +1781,13 @@ previous Internet standard were, e.g. email and the World Wide Web.
 Otherwise a radical partitioning will be unavoidable as hypercentrality
 leads up to a breaking point.
 
-# Chapter 6: From Resilience to Vulnerability
+# 6. From Resilience to Vulnerability
 
 Ultimately we are witnessing the end of the Internet’s resilience as its
 nodes become ever more vulnerable. The Internet was developed with a
 particular focus on the decentralization of its most strategic resources
 and on the dynamic management of its connections according to the
-conditions of the supporting infrastructure in each area.
-
-Despite a few localized glitches, this proved to be a very successful
+conditions of the supporting infrastructure in each area. Despite a few localized glitches, this proved to be a very successful
 approach and the Internet has demonstrated its ability to withstand
 attacks on several of its integral parts.
 
@@ -1836,7 +1800,7 @@ the existence of ever more blatant, imperialist strategies.
 
 ## 6.1 Network Strength and Node Vulnerability
 
-The success of the Internet makes its resources become increasingly
+The success of the Internet makes its resources increasingly
 attractive for exploitation. As more of our activities take place online
 where they leave digital traces and depend upon services, access to this
 data becomes an ever more high-stakes game. A non-exhaustive list would
@@ -1848,8 +1812,8 @@ targeting Iran’s nuclear centrifuges, electric grids compromised by IT
 attacks, 30,000 desktops at a major oil corporation hacked to the point
 of disabling its operations; malware that uses the camera on a personal
 computer for spying, Adobe discovering that a number of its apps’ code
-had been stolen, hackers breaking into the servers of The New York
-Times’, The Washington Post, and The Wall Street Journal in order to
+had been stolen, hackers breaking into the servers of *The New York
+Times*, *The Washington Post* and *The Wall Street Journal* in order to
 identify individual journalists, Gmail compromised by authoritarian
 regimes who hunt for political dissent, and finally the realization,
 even before Snowden, that all our communications are under surveillance
@@ -1858,7 +1822,7 @@ and recorded.
 Considering these well-documented examples we may conclude that our
 world has changed a lot, with privacy no longer protected and security
 even less so. The ubiquity of the Internet has enhanced our capacity to
-communicate, coordinate, and coproduce but at the same time this blanket
+communicate, coordinate and coproduce but at the same time this blanket
 connectivity exposes us to new vulnerabilities. Individuals, businesses
 and governments are now carefully exploiting these vulnerabilities to an
 extent that we can only guess at.
@@ -1876,27 +1840,27 @@ meetings where the stakes are high is a good illustration of this state
 of affairs. Spies must now either resort to more conventional and
 onerous techniques or develop more sophisticated cyber methods.
 
-## 6.2 Network Imperialism
+## 6.2 Reticular Imperialism
 
 This situation is disturbing because hackers are far from the only
 groups to exploit these vulnerabilities. On the contrary, many hackers
 strive to identify and report them, in order to highlight the system’s
 vulnerabilities. Over the past several years, the ongoing involvement of
 nation-states in cyber attacks has become undeniable. Unsurprisingly
-China, Russia and Iran are accused of espionage by the United States,
+China, Russia and Iran are accused of espionage by the US,
 which has even prohibited the use of certain Chinese hardware. But the
-United States appear to be the most powerful actor in this surveillance
+US appears to be the most powerful actor in this surveillance
 game with hardware manipulation, malware development and techniques to
 destabilize networks, all easy feats due to their hegemonic position in
 the global Internet hierarchy.
 
-The United States has achieved an unprecedented level of control over
+The US has achieved an unprecedented level of control over
 information by exploiting their privileged access to Google, Facebook,
 Yahoo, Cisco, Microsoft, Apple and all other critical network
 infrastructures. Edward Snowden’s disclosures are only the tip of the
 iceberg. Since the end of World War II and later augmented in
 partnership with the United Kingdom, Canada, Australia and New Zealand,
-the United States has been continuously developing a vast surveillance
+the US has been continuously developing a vast surveillance
 infrastructure. ECHELON and PRISM merely represent the ‘visible’ part of
 the growing infrastructure of surveillance designed for strategic
 purposes.[^32]
@@ -1907,16 +1871,14 @@ used for economic, industrial and political espionage. In the early
 2000s, ECHELON was denounced for its idiosyncratic spying on Kofi Annan
 but also on corporate entities like Airbus, Thompson and Toyota.[^33]
 Today, this time on the grounds of fighting corruption and terrorism,
-the United States’ determination to uphold its ‘national security
+the US’ determination to uphold its ‘national security
 interests’ appears stronger than ever.
 
 The full-scale development of surveillance techniques took place in
 successive steps, each stage demanding a further step in the
 interconnectivity of networks. Since 9/11 the legal framework regulating
 the power of surveillance in terms of scope, retrieval and data use has
-been greatly enhanced with the United States taking the lead. Article
-
-215 of the Patriot Act is typical in this respect as it authorizes the
+been greatly enhanced with the US taking the lead. Article 215 of the Patriot Act is typical in this respect as it authorizes the
 seizure of any ‘tangible’ personal material, even without the need for
 the individuals concerned to be suspected of terrorism. This article was
 further amended to permit digital data collection without warrant. In
@@ -1924,7 +1886,7 @@ further amended to permit digital data collection without warrant. In
 made this act applicable for all form of foreign intelligence
 gathering.[^34]
 
-These expanded surveillance laws have landed the United States in a
+These expanded surveillance laws have landed the US in a
 situation where they find themselves at odds with their most fundamental
 values, in particular with the Fourth Amendment to the Constitution,
 which prohibits unreasonable searches or seizures and requires any
@@ -1951,7 +1913,7 @@ renegotiated in view of the evolution of the means and methods of
 surveillance.
 
 The urgency of a broad, public debate on the issue of surveillance
-becomes obvious when senior political personnel in the United States,
+becomes obvious when senior political personnel in the US,
 the country that maintains the most extensive intelligence apparatus,
 need to read *The Guardian* in order to learn about the range of their
 own problems. Or when the world hears the President of the United States
@@ -1966,7 +1928,7 @@ demands an overarching aggregation of all users.
 
 The space that surrounds us is also no longer the same as we
 continuously expose our daily life and geographic location online. The
-numerous loopholes, whether purposely designed or simple glitches are
+numerous loopholes, whether purposely designed or simple glitches, are
 all the more worrying in that they are not properly understood. They
 expose us to any group or individual savvy enough to understand the
 weaknesses of the system. Less than one century of history should be a
@@ -1976,20 +1938,13 @@ represent.
 A consequence of these vulnerabilities becoming more apparent is the
 growing tendency of online activities to be reorganized at the national
 level, while at the same time politics also takes a more nationalist
-turn as the global economy declines.
-
-Russia and China are developing operating systems of their own; the
-United
-
-States no longer want to see their strategic institutions utilizing
-Chinese hardware and many European countries want to abolish cloud
-computing if hosting is facilitated by US-based firms.
+turn as the global economy declines. Russia and China are developing operating systems of their own; the US no longer wants to see its strategic institutions utilizing Chinese hardware and many European countries want to abolish cloud computing if hosting is facilitated by US-based firms.
 
 To affirm Eric Schmidt’s slogan: ‘If you have something that you don’t
 want anyone to know, maybe you shouldn’t be doing it in the first place’
 means assenting to the convergence between Facebook, WikiLeaks, Google
 and the NSA.[^36] All these actors claim unfettered access to user
-information makes the world a better place. Which raises the question;
+information makes the world a better place. Which raises the question:
 which world are we talking about?
 
 
@@ -2001,7 +1956,7 @@ gratis, decentralize power and resist any attempt at taking control of
 the Internet itself. Regrettably, we must come to the conclusion that
 these ideals are rapidly fading away. Seemingly abolished barriers are
 being re-erected again. Freedom of speech is subject to a number of
-restrictions. Connectivity and bandwidth are still unequally
+restrictions. Engagements and capabilities are still unequally
 distributed. Power has never been so centralized. We are clearly
 witnessing the end of the Internet as we formerly knew it. By altering
 the nature of space, the Internet has changed humanity’s social
@@ -2009,25 +1964,25 @@ configuration; but humanity is so diverse that it will not allow the
 Internet to remain unaltered.
 
 New boundaries tend to emerge everywhere. By now, the United States, the
-United Kingdom, and France, among other countries, are forcing search
+United Kingdom and France, among other countries, are forcing search
 engines to suppress URLs and ISPs that lead to spaces which are in
 breach of their respective legislations.[^37] The outcome is different
 search results to conform to cultural norms and local regulations. The
 content available on iTunes, Netflix, YouTube or Spotify varies from one
 country to the next and in some cases is not available at all. To avoid
 violations of the Internet’s integrity an increasing number of
-individuals use technique similar to those of the Chinese and Iranian
+individuals use techniques similar to those of the Chinese and Iranian
 Intranet users in order to gain access to Facebook or Twitter.
 
 Freedom of expression has come increasingly under threat. Anonymity is
 becoming impossible in many countries and immense machineries of
 surveillance allow authoritarian regimes to identify and eliminate
-opponents. Mass media is also coming under increasing pressure; despite
+opponents. Mass media is also coming under increasing pressure, despite
 the fact that access to confidential documents is far easier. WikiLeaks
 is a great example of the precarious nature of confidentiality on the
 Internet and the coercive environment we find ourselves in when trying
-to question it. Journalists working for the Washington Post and the
-Guardian have already expressed concerns about being urged not to
+to question it. Journalists working for *The Washington Post* and *The
+Guardian* have already expressed concerns about being urged not to
 publish too extensively on certain issues, notably surveillance.
 Companies like Lavabit, an email service offering advanced security to
 its subscribers, including Snowden, had to close down when they were
@@ -2035,7 +1990,7 @@ issued an order by US Government agencies to allow access to their data.
 
 Meanwhile the potential of ‘collective intelligence’ remains skewed
 towards particular purposes. While a small number of communities
-contribute towards the common good, such as the Wikipedia community,
+contribute to the common good, such as the Wikipedia community,
 this minority must take an increasing number of actions to prevent
 attempts at manipulation and disinformation. Moreover, online activity
 increasingly takes place within privatized environments. Facebook and
@@ -2050,7 +2005,7 @@ unambiguously support the real interest of their users.
 ‘Collective intelligence’ is increasingly exploited by a few privileged
 intermediaries who are allowed to freely handle and aggregate data
 produced by everyone else. The immense potential of this information of
-course does not directly benefit those who produce it when they are
+course does not directly benefit those who produce it when those producers are
 controlled by a restrictive environment where the owners of the platform
 determine the degree of confidentiality. Under close analysis it becomes
 blatantly obvious that advertisers are the real customers of these
@@ -2087,7 +2042,7 @@ Internet traffic, depending on location or the basis of content. Doing
 this openly impinges on one of the Internet’s most fundamental values,
 not only infringing on the freedom of expression but also on the freedom
 to do business. These types of practices also create a different
-Internet experiences according to which service we use.
+Internet experience according to which service we use.
 
 Finally, because the Internet has extended into a large number of
 contemporary social practices, its efficiency turns into an additional
@@ -2102,13 +2057,13 @@ the most mediatized celebrity. Is it not time to ask what the Internet
 does to us and what we do for the Internet?
 
 After twenty years of public use of the Internet, the conflicts of
-interest have become too serious and too constraining, to continue on in
+interest have become too serious and too constraining to continue on in
 this vein. We are truly seeing the end of a project whose initial aim
 was to be a global space of free interaction for humanity as a whole. We
 now see the Internet’s neutrality compromised by a range of actors with
 conflicting interests. Originally intended to make space simply vanish,
 the Internet has on the contrary contributed to making the richness, the
-power, and the multiplicity of the world’s spaces more tangible. By
+power and the multiplicity of the world’s spaces more tangible. By
 embracing an ever-larger number of people, the Internet has intensified
 what humanity has in common but at the same time it has deepened the
 divide between societies based on essentially different values.
@@ -2122,16 +2077,14 @@ global-scale and to truly recognize the legitimacy of individuals as the
 primary constituents of politics. By opening itself to all individuals
 at the same time, the Internet heightens the fragility of nation-states
 and supports the emergence of the world as one unified and single
-political horizon for humanity
+political horizon for humanity.
 
-Terrorism, the environment, and joblessness are among the problems
+Terrorism, the environment and joblessness are among the problems
 developing at the global scale which typify the challenges nation-states
 face in justifying their enduring sovereignty and their claim to provide
 solutions to problems which are clearly too large to solve at the
 national level. For too long, we have underestimated the Internet’s
-capacity to change societies and the capacity of societies to change the
-
-Internet. By altering the nature of space, repositioning the relative
+capacity to change societies and the capacity of societies to change the Internet. By altering the nature of space, repositioning the relative
 place of things and modifying the practical modalities of social
 interaction, the Internet has shaken up values, which may often work as
 laws. The transformation has been so radical that all previous notions
@@ -2147,7 +2100,7 @@ unsustainable. The extension of Internet usage to other major parts of
 the world is a great political challenge. At this stage, the many values
 that play a role in regulating societies are actuated: conflicts between
 individuals, states and businesses demonstrate that while freedom of
-expression, privacy, and property may be fundamental principles they are
+expression, privacy and property may be fundamental principles, they are
 open to very different interpretations. The problems arising from the
 changes produced by the Internet revitalizes the contradictions between
 these values. It should be self-evident that security and privacy,
@@ -2157,8 +2110,9 @@ neutrality is not a sufficient policy. Today it should be more apparent
 that the enduring existence of social values is not arbitrary and that
 they are often relevant and essential. Sometimes the Internet allows us
 to forget the long and perilous development of the laws that govern our
-society and the original reasons we established these rules. The
-Internet has profoundly transformed the nature of our actions to such an
+society and the original reasons we established these rules. 
+
+The Internet has profoundly transformed the nature of our actions to such an
 extent that it compels us to develop new effective responses that
 undoubtedly will expose us to new vulnerabilities but also to new
 opportunities to commence an in-depth renewal of coexistence. This
@@ -2167,7 +2121,7 @@ all of society and it should mobilize political organizations in their
 most essential function: the task of critically thinking about the
 conditions of our existence.
 
-The Internet’s ultimate ends expresses specific values that do include
+The Internet’s ultimate ends express specific values that do include
 many of the issues faced by society today. Most societies depend upon
 politics to revolve conflicts of interests and to achieve coexistence.
 Politics involves taking a stand when there is imbalanced representation
@@ -2186,7 +2140,7 @@ self-organization are not in themselves sufficient to effectively
 prevent all forms of predatory practices like pedophilia, terrorism and
 totalitarianism. Nor do these libertarian principles safeguard privacy,
 as confidential information can easily be revealed for the sake of
-‘transparency’, or commercial gain. Finally, net neutrality and
+‘transparency’ or commercial gain. Finally, net neutrality and
 self-organization are not alone sufficient to manage the various
 proprietary systems; even the *Creative Commons* license presupposes
 some degree of enforced compliance.
@@ -2199,7 +2153,7 @@ practices. However, like any other space, the Internet leaves open
 opportunities for violence, extortion, theft, bias, manipulation,
 defamation, hostility and other contemptible activities. To act as if
 these activities did not occur, or to take a neutral stance towards them
-by appealing towards freedom is a morally indefensible position. When
+by appealing to freedom is a morally indefensible position. When
 conflicts of interest arise between individuals it is always advisable
 to consider which party profits from such a conflict and which party is
 subjected to supposed neutrality.
@@ -2214,7 +2168,7 @@ uncompromising when addressing the abuses every political society is
 prone to committing and the manipulation of the Internet.
 
 What the world really needs is a major political debate centering on the
-future of the only space that the whole of humanity shares in common.
+future of the only place that the whole of humanity shares in common.
 There is no doubt that a choice will have to be made, between a
 globalization of politics or the end of the Internet as we know it. We
 will have to make the Internet the central issue of a debate which given
@@ -2231,7 +2185,7 @@ The Internet is in clear danger of disappearing and part of our very
 humanity threatens to disappear with it. As the bearer of a form of
 globalization actively empowering individuals, the very existence of the
 Internet suggests that the time has come for humanity to consider a
-change in scale towards its final destiny: the world. The Internet is
+change in scale towards its final destiny: the World. The Internet is
 the perfect public place to rise to this challenge; it is an ideal but
 also fragile space that we must never cease to cherish, share and
 protect together.
@@ -2258,7 +2212,7 @@ Beaude, Boris. *Internet, Changer l’espace, Changer la Société: Les
 logiques Contemporaines de Synchorisation.* Limoges: FYP Éditions, 2012.
 
 Cerf, Vinton. ‘Father of the Internet: Why We Must Fight For Its
-Freedom’, *CNN,* 30 November 2012.
+Freedom’, *CNN,* 30 November 2012, <http://edition.cnn.com/2012/11/29/business/opinion-cerf-google-internet-freedom/>.
 
 Elgan, Mike. ‘Google’s Business Model: YOU Are the Product’,
 *Datamation,* 5 February 2009,
@@ -2303,8 +2257,7 @@ Cyberspace,* trans. Robert Bononno, New York: Perseus Books, 1999.
 Mitchell, William J. *City of Bits: Space, Place and the Infobahn*,
 Cambridge, Massachusetts: MIT Press, 1995.
 
-Pisani, Francis and Dominique Piotet. *La Alquimia de las Multitudes,*
-Barcelona: Paidós, 2009.
+Pisani, Francis and Dominique Piotet. *L’alchimie des multitudes*, Paris: Pearson, 2008.
 
 Popper, Karl. *The Open Society and Its Enemies,* London: Routledge,
 1945.
@@ -2322,18 +2275,15 @@ Transcription of the 1789 Joint Resolution of Congress Proposing 12
 Amendments to the U.S. Constitution’. *National Archives,*
 <http://www.archives.gov/exhibits/charters/bill_of_rights_transcript.html>.
 
-Wiener, Norbert. *Cybernetics: Or Control and Communication in the
-Animal and the Machine*, Cambridge, Massachusetts: MIT Press, 1948.
+Wiener, Norbert. *The Human Use of Human Beings*, Cambridge, Massachusetts:The Riverside Press (Houghton Mifflin Co.), 1950. 
 
 Woolsey, James R. ‘Why We Spy on Our Allies’, *Wall Street Journal,* 17
 March 2000, <http://www.wsj.com/articles/SB95326824311657269>.
 
 
-[^1]: Norbert Wiener, *Cybernetics: Or Control and Communication in the
-    Animal and the Machine*, Cambridge, Massachusetts: MIT Press, 1948.
+[^1]: Norbert Wiener, *The Human Use of Human Beings*, Cambridge, Massachusetts:The Riverside Press (Houghton Mifflin Co.), 1950.
 
-[^2]: Norbert Wiener, *Cybernetics: Or Control and Communication in the
-    Animal and the Machine*.
+[^2]: Norbert Wiener, *The Human Use of Human Beings*.
 
 [^3]: John Perry Barlow, *A Declaration of the Independence of
     Cyberspace*, 8 February 1996,
@@ -2350,34 +2300,30 @@ March 2000, <http://www.wsj.com/articles/SB95326824311657269>.
     <http://www.archives.gov/exhibits/charters/bill_of_rights_transcript.html>.
 
 [^7]: Vinton Cerf, ‘Father of the Internet: Why We Must Fight For Its
-    Freedom’, *CNN*, 30 November 2012.
+    Freedom’, *CNN*, 30 November 2012, <http://edition.cnn.com/2012/11/29/business/opinion-cerf-google-internet-freedom/>.
 
 [^8]: Karl Popper, *The Open Society and Its Enemies*, London:
     Routledge, 1945.
 
 [^9]: See: Pierre Levy, *Collective Intelligence: Mankind’s Emerging
     World in Cyberspace*, trans. Robert Bononno, New York: Perseus
-    Books, 1999, Francis Pisani and Dominique Piotet, *La Alquimia de
-    las Multitudes*, Barcelona: Paidós, 2009 and James Surowiecki, *The
+    Books, 1999; Francis Pisani and Dominique Piotet, *La Alquimia de
+    las Multitudes*, Barcelona: Paidós, 2009; and James Surowiecki, *The
     Wisdom of Crowds,* New York: Doubleday, 2004.
 
 [^10]: *Synchorization*, derived analogously to ‘synchronization’, is
     the process where we create together a common space of life, just as
-    synchronization creates shared time.
-
-    See, Boris Beaude, *Internet, Changer l’espace, Changer la Société:
-    Les logiques Contemporaines de Synchorisation*, Limoges: FYP
+    synchronization creates shared time. See: Boris Beaude, *Internet, changer l’espace, changer la société:
+    les logiques contemporaines de synchorisation*, Limoges: FYP
     Éditions, 2012.
 
-[^11]: See: *Internet World Stats: Usage and Population Statistics,*
+[^11]: See: *Internet World Stats: Usage and Population Statistics*,
     <http://www.internetworldstats.com/stats.htm>.
 
 [^12]: For recent English and French Wikipedia statistics see
-    respectively
-    <https://stats.wikimedia.org/EN/TablesWikipediaEN.htm> and
-    <https://stats.wikimedia.org/EN/TablesWikipediaFR.htm>.
+    respectively <https://stats.wikimedia.org/EN/TablesWikipediaEN.htm> and <https://stats.wikimedia.org/EN/TablesWikipediaFR.htm>.
 
-[^13]: For example the firm Wiki-PR see:
+[^13]: For example the firm Wiki-PR:
     <http://www.wiki-pr.com/>.
 
 [^14]: Distribution, valorization, coordination and promotion are the
@@ -2398,7 +2344,7 @@ March 2000, <http://www.wsj.com/articles/SB95326824311657269>.
     <http://investor.google.com/financial/tables.html>.
 
 [^18]: For example see Google’s flu epidemics prediction engine based on
-    trends in users searches on the illness. See: Jeremy Ginsberg and
+    trends in users searches on the illness (which was later critiqued as not being accurate at all). See: Jeremy Ginsberg and
     Matt Mohebbi, *Google Official Blog,* 11 November 2008,
     <https://googleblog.blogspot.co.il/2008/11/tracking-flu-trends.html>.
 
@@ -2411,13 +2357,12 @@ March 2000, <http://www.wsj.com/articles/SB95326824311657269>.
 
 [^21]: There are rare exceptions, for example when a site happens to
     have a high amount of traffic at one given time and a server
-    overloads results in a form of rivalry. But this example underlines
+    overload results in a form of rivalry. But this example underlines
     the fact that rivalry is not so much about the resource being
     transmitted as about the capacity of the vector of transmission.
 
 [^22]: Chris Anderson, *Free: The Future of Radical Price,* New York:
-    Hyperion, 2009. Also see: Waldo Jaquith, ‘Chris Anderson’s Free Contains What is
-    Apparently Plagiarized Text’, *Waldo Jaquith Blog,* 23 June 2009,
+    Hyperion, 2009. Also see: Waldo Jaquith, ‘Chris Anderson’s Free Contains What is Apparently Plagiarized Text’, *Waldo Jaquith Blog,* 23 June 2009,
     <https://waldo.jaquith.org/blog/2009/06/chris-anderson-free/>.
 
 [^23]: Dan Ariely, Kristina Shampanier and Nina Mazar, ‘Zero as a
@@ -2452,7 +2397,7 @@ March 2000, <http://www.wsj.com/articles/SB95326824311657269>.
     *Human Nature,* (March, 2003): 53-72.
 
 [^32]: ECHELON is part of a worldwide telecommunication surveillance
-    system set up by the United States in collaboration with the four
+    system set up by the US in collaboration with the four
     other aforementioned countries (the United Kingdom, Canada,
     Australia and New Zealand referred to together as ‘The Five Eyes’)
     from the early 1960s. This system was heavily criticized in the
@@ -2481,12 +2426,9 @@ March 2000, <http://www.wsj.com/articles/SB95326824311657269>.
     shall not be violated, and no Warrants shall issue, but upon
     probable cause, supported by Oath or affirmation, and particularly
     describing the place to be searched, and the persons or things to be
-    seized.’
-
-    See: ‘Transcription of the 1789 Joint Resolution of Congress
+    seized.’ See: ‘Transcription of the 1789 Joint Resolution of Congress
     Proposing 12 Amendments to the U.S. Constitution’, *National
-    Archives,*
-    <http://www.archives.gov/exhibits/charters/bill_of_rights_transcript.html>.
+    Archives,* <http://www.archives.gov/exhibits/charters/bill_of_rights_transcript.html>.
 
 [^36]: See Eric Schmidt interview with Maria Bartiromo on CNBC, ‘Inside
     the Mind of Google’, 7 December 2009,
