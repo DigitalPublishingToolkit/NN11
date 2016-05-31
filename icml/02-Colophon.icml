@@ -72,8 +72,9 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Colophon</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Network Notebook #11</Content>
@@ -83,8 +84,9 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Boris Beaude, The Ends of the Internet</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Network Notebooks editors:</Content>
@@ -154,8 +156,9 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Amsterdam University of Applied Sciences (Hogeschool van Amsterdam)</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>First published in French as </Content>
@@ -165,8 +168,9 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>, Limoges, FYP Editions © 2014</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>If you want to order copies please contact:</Content>
@@ -196,8 +200,9 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>t: +31 (0)20 59 51 865</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>EPUB and PDF editions of this publication are freely downloadable from:</Content>
@@ -209,8 +214,9 @@
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.networkcultures.org/publications</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+  </HyperlinkTextSource>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>This translation is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). To view a copy of this license, visit </Content>
@@ -222,8 +228,9 @@
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>.</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Amsterdam, April 2016</Content>
@@ -239,28 +246,28 @@
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>ISBN 9789492302069 (EPUB)</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
-              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
+              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
         <Properties>
           <Profile type="string">
             $ID/Embedded
-            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
         <Link Self="ueb" LinkResourceURI="file:imgs/file1.jpg" />
@@ -271,62 +278,67 @@
     <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1.00000 0 0 1.00000 150.00000 -100.00000">
       <Properties>
         <PathGeometry>
           <GeometryPathType PathOpen="false">
             <PathPointArray>
-              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
-              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+              <PathPointType Anchor="-150.00000 -100.00000" LeftDirection="-150.00000 -100.00000" RightDirection="-150.00000 -100.00000" />
+              <PathPointType Anchor="-150.00000 100.00000" LeftDirection="-150.00000 100.00000" RightDirection="-150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 100.00000" LeftDirection="150.00000 100.00000" RightDirection="150.00000 100.00000" />
+              <PathPointType Anchor="150.00000 -100.00000" LeftDirection="150.00000 -100.00000" RightDirection="150.00000 -100.00000" />
             </PathPointArray>
           </GeometryPathType>
         </PathGeometry>
       </Properties>
-      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+      <Image Self="ue6" ItemTransform="1.00000 0 0 1.00000 -150.00000 -100.00000">
         <Properties>
           <Profile type="string">
             $ID/Embedded
-            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
           </Profile>
         </Properties>
         <Link Self="ueb" LinkResourceURI="file:imgs/file2.jpg" />
       </Image>
     </Rectangle>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Network Notebook Series</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>The Network Notebooks series presents new media research commissioned by the INC.</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>PREVIOUSLY PUBLISHED NETWORK NOTEBOOKS:</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Network Notebooks 10</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Richard Barbrook with Andy Cameron, The Internet Revolution, 2015.</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Network Notebooks 09</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> Michael Seemann, Digital Tailspin: Ten Rules for the Internet After Snowden, 2015.</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Network Notebooks 08</Content>
@@ -335,9 +347,10 @@
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Brooke Wendt, The Allure of the Selfie: Instagram and the New Self Portrait, 2014.</Content>
-  </CharacterStyleRange><Br />
+    <Content>Brooke Wendt, The Allure of the Selfie: Instagram and the New Self Portrait, 2014.</Content>
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Network Notebooks 07</Content>
@@ -346,9 +359,10 @@
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Henry Warwick, Radical Tactics of the Offline Library, 2014.</Content>
-  </CharacterStyleRange><Br />
+    <Content>Henry Warwick, Radical Tactics of the Offline Library, 2014.</Content>
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Network Notebooks 06</Content>
@@ -357,9 +371,10 @@
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Andreas Treske, The Inner Life of Video Spheres: Theory for the YouTube Generation, 2013.</Content>
-  </CharacterStyleRange><Br />
+    <Content>Andreas Treske, The Inner Life of Video Spheres: Theory for the YouTube Generation, 2013.</Content>
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Network Notebooks 05</Content>
@@ -368,9 +383,10 @@
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Eric Kluitenberg, Legacies of Tactical Media, 2011.</Content>
-  </CharacterStyleRange><Br />
+    <Content>Eric Kluitenberg, Legacies of Tactical Media, 2011.</Content>
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Network Notebooks 04</Content>
@@ -379,9 +395,10 @@
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Rosa Menkman, The Glitch Momentum, 2011.</Content>
-  </CharacterStyleRange><Br />
+    <Content>Rosa Menkman, The Glitch Momentum, 2011.</Content>
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Network Notebooks 03</Content>
@@ -390,9 +407,10 @@
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Dymtri Kleiner, The Telekommunist Manifesto, 2010.</Content>
-  </CharacterStyleRange><Br />
+    <Content>Dymtri Kleiner, The Telekommunist Manifesto, 2010.</Content>
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Network Notebooks 02</Content>
@@ -401,9 +419,10 @@
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Rob van Kranenburg, The Internet of Things, 2008.</Content>
-  </CharacterStyleRange><Br />
+    <Content>Rob van Kranenburg, The Internet of Things, 2008.</Content>
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Network Notebooks 01</Content>
@@ -412,8 +431,8 @@
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Rosalind Gill, Technobohemians of the New Cybertariat, 2007.</Content>
-  </CharacterStyleRange><Br />
+    <Content>Rosalind Gill, Technobohemians of the New Cybertariat, 2007.</Content>
+  </CharacterStyleRange>
 </ParagraphStyleRange>
 
   </Story>

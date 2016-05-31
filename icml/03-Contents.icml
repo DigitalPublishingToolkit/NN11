@@ -52,70 +52,79 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Contents</Content>
-  </CharacterStyleRange><Br />
+  </CharacterStyleRange>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Introduction: The Abolition of Space</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+  </HyperlinkTextSource>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Chapter 1: From the Abolition of Space to the Emergence of Territory</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+  </HyperlinkTextSource>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Chapter 2: From the Freedom of Speech to the Global Panopticon</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+  </HyperlinkTextSource>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Chapter 3: From Collective Intelligence to Distributed Capability</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+  </HyperlinkTextSource>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-5" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Chapter 4: From Free to Proprietary</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+  </HyperlinkTextSource>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-6" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Chapter 5:From Decentralization to Hypercentrality</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+  </HyperlinkTextSource>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-7" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>From Resilience to Vulnerability</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+  </HyperlinkTextSource>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-8" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Conclusion: From Net Neutrality to the Neutralization of the Internet</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+  </HyperlinkTextSource>
 </ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-9" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>References</Content>
     </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
+  </HyperlinkTextSource>
 </ParagraphStyleRange>
 
   </Story>
