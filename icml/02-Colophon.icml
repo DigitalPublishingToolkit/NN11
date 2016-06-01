@@ -167,24 +167,35 @@
     <Content>Les fins d’Internet</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>, Limoges, FYP Editions © 2014</Content>
+    <Content>, Limoges, FYP Editions © 2014, </Content>
   </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>http://www.fypeditions.com/</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>If you want to order copies please contact:</Content>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Contact:</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Institute of Network Cultures, Hogeschool van Amsterdam</Content>
+    <Content>Institute of Network Cultures</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Amsterdam University of Applied Sciences</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>&#x2028;</Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>http://www.networkcultures.org</Content>
     </CharacterStyleRange>
@@ -199,20 +210,17 @@
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>t: +31 (0)20 59 51 865</Content>
+    <Content>t: +31 (0)20 595 1865</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>EPUB and PDF editions of this publication are freely downloadable from:</Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>http://www.networkcultures.org/publications</Content>
+      <Content>https://www.networkcultures.org/publications</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
 </ParagraphStyleRange>
@@ -221,7 +229,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>This translation is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). To view a copy of this license, visit </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>https://creativecommons.org/licenses/by-nc-sa/4.0/</Content>
     </CharacterStyleRange>
@@ -233,7 +241,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Amsterdam, April 2016</Content>
+    <Content>Amsterdam, June 2016</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>&#x2028;</Content>
@@ -437,24 +445,31 @@
 
   </Story>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//creativecommons.org/licenses/by-nc-sa/4.0/" Name="link" DestinationURL="https://creativecommons.org/licenses/by-nc-sa/4.0/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="https://creativecommons.org/licenses/by-nc-sa/4.0/" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-4" Name="https://creativecommons.org/licenses/by-nc-sa/4.0/" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/https%3a//creativecommons.org/licenses/by-nc-sa/4.0/</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.networkcultures.org/publications" Name="link" DestinationURL="http://www.networkcultures.org/publications" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="http://www.networkcultures.org/publications" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.networkcultures.org/publications" Name="link" DestinationURL="https://www.networkcultures.org/publications" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="https://www.networkcultures.org/publications" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//www.networkcultures.org/publications</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//www.networkcultures.org/publications</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.networkcultures.org" Name="link" DestinationURL="http://www.networkcultures.org" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="http://www.networkcultures.org" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+  <Hyperlink Self="uf-2" Name="http://www.networkcultures.org" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
       <Destination type="object">HyperlinkURLDestination/http%3a//www.networkcultures.org</Destination>
+    </Properties>
+  </Hyperlink>
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.fypeditions.com/" Name="link" DestinationURL="http://www.fypeditions.com/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://www.fypeditions.com/" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//www.fypeditions.com/</Destination>
     </Properties>
   </Hyperlink>
 </Document>
