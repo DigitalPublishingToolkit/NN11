@@ -35,6 +35,7 @@ ISBN 9789492302069 (EPUB)</span>
 
 ![](imgs/file1.jpg)
 ![](imgs/file2.jpg)
+![](imgs/fyp.png)
 
 
 ## Network Notebook Series
