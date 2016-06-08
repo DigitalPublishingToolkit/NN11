@@ -10,9 +10,9 @@
 
   <span class="white">[Chapter 4: From Free to Proprietary](ch009.xhtml)</span>
 
-  <span class="white">[Chapter 5:From Decentralization to Hypercentrality](ch010.xhtml)</span>
+  <span class="white">[Chapter 5: From Decentralization to Hypercentrality](ch010.xhtml)</span>
 
-  <span class="white">[From Resilience to Vulnerability](ch011.xhtml)</span>
+  <span class="white">[Chapter 6: From Resilience to Vulnerability](ch011.xhtml)</span>
 
   <span class="white">[Conclusion: From Net Neutrality to the Neutralization of the Internet](ch012.xhtml)</span>
 

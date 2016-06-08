@@ -8,8 +8,8 @@
 Miriam Rasch  
 **Translator:** Patrice Riemens  
 **Copy-editing:** Matt Beros  
-**Design:** Loes Sikkes  
-**EPUB development:** André Castro  
+**Design:** [Loes Sikkes](http://www.loessikkes.nl/)  
+**EPUB development:** [André Castro](http://pinknoi.so/)  
 **Printer:** Printvisie  
 **Publisher:** Institute of Network Cultures, Amsterdam  
 **Supported by:** Amsterdam University of Applied Sciences (Hogeschool van Amsterdam)</span>
