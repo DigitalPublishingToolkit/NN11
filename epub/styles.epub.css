@@ -165,11 +165,11 @@ span.list-level2{
 
 
 a {
-    color: #6DD4C0;    
+    color: rgb(66, 243, 209); 
 }
 
 a:visited {
-    color: #6DD4C0;    
+    color: rgb(66, 243, 209); 
 }
 
 figure{

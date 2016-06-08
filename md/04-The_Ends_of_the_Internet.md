@@ -2180,7 +2180,7 @@ March 2000, <http://www.wsj.com/articles/SB95326824311657269>.
 <div class="incpubs">
 <a href="http://networkcultures.org/publications/">
 <img class="incpubs" alt="INC Publications" src="imgs/INCpubs.jpg" /></a>
-</div>
+</div>		     
 
 
 
