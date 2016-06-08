@@ -2275,6 +2275,13 @@ Woolsey, James R. ‘Why We Spy on Our Allies’, *Wall Street Journal,* 17
 March 2000, <http://www.wsj.com/articles/SB95326824311657269>.
 
 
+<div class="incpubs">
+<a href="http://networkcultures.org/publications/">
+<img class="incpubs" alt="INC Publications" src="imgs/INCpubs.jpg" /></a>
+</div>
+
+
+
 [^1]: Norbert Wiener, *The Human Use of Human Beings*, Cambridge, Massachusetts:The Riverside Press (Houghton Mifflin Co.), 1950.
 
 [^2]: Norbert Wiener, *The Human Use of Human Beings*.
