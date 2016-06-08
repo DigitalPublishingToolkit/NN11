@@ -210,7 +210,7 @@ explainable purely in terms of its technical, economic or social
 components but first and foremost it remains a spatial innovation that
 attempts to limit the relevance of distance.
 
-## 1.1 The Internet Is a Real Space
+## The Internet Is a Real Space
 
 It is essential to make a distinction between the societal origins of
 the Internet’s emergence and the consequences of its deployment on
@@ -300,7 +300,7 @@ dematerialization of music, films and games. Money has increasingly
 become abstract information and no longer needs to take a material form
 in order to be exchanged.
 
-## 1.2 The Internet as a Place 
+## The Internet as a Place 
 
 Today we must learn to understand the mechanisms operating between the
 material and the immaterial, between networks and territories, and
@@ -346,7 +346,7 @@ are spaces that are making a remarkably efficient use of the properties
 of the immaterial. That is the reason why they allow extremely high
 transmission speeds over long distances.
 
-## 1.3 The Continuing Relevance of Territories 
+## The Continuing Relevance of Territories 
 
 The limitations of the Internet are many. Unlike light, the speed of
 transmission of relevant information within the context of social
@@ -386,7 +386,7 @@ represents either a constraint or a resource. Thus, the Internet
 constantly reminds us that territories, the dwelling spaces of our
 bodies, are plural.
 
-## 1.4 Sharing Space, Sharing the Internet
+## Sharing Space, Sharing the Internet
 
 The ideal of digital ubiquity is faced with the challenge of established
 territories, which remain the basic spaces of our existence. These
@@ -440,7 +440,7 @@ convergence of interests between the United States Department of Defense
 (DoD), which financed the project, and the numerous North American and
 European researchers, who contributed to its ongoing development.
 
-## 2.1 The Internet as a Space of Freedom
+## The Internet as a Space of Freedom
 
 During the 1960s communism was still perceived as a threat and many
 engineers were convinced that society should apply the principles of
@@ -513,7 +513,7 @@ the Internet to confront problems it may face in terms of an internal
 logic which is indifferent to the existence of legitimate institutions
 permitted to regulate individual behavior.
 
-## 2.2 The Politics of Freedom
+## The Politics of Freedom
 
 A detail John Perry Barlow might underestimate in his particular demand
 for the independence of cyberspace is that there is no such thing as a
@@ -586,7 +586,7 @@ from a society they do not feel at home in. But the Internet also
 appears as a lawless place, where people attempt to impose values and
 practices on each other.
 
-## 2.3 The Limits of Free Speech
+## The Limits of Free Speech
 
 Freedom of expression is the issue that brings the various political
 organizations structuring our world into sharp conflict. Certainly, some
@@ -772,7 +772,7 @@ individual; i.e. it means acknowledging individual fallibility while at
 the same time recognizing the power of insight residing in each one of
 us.
 
-## 3.1 Democracy as Collective Intelligence in Action
+## Democracy as Collective Intelligence in Action
 
 Democracy is certainly one of the most powerful manifestations of the
 potential discussed above. Democracy literally constitutes a
@@ -805,7 +805,7 @@ preferable to already established tyrannies.[^8] Democracies may well
 hold the instruments of their own destruction but they also possess
 those of their preservation.
 
-## 3.2 The Practical Requirements for Collective Intelligence
+## The Practical Requirements for Collective Intelligence
 
 Democracy as a large-scale experience of collective intelligence
 perfectly illustrates the difficulties encountered in fostering the
@@ -841,7 +841,7 @@ But now, after two decades of existence, it would seem that this
 potential to achieve confluence is reaching the same limits as the
 democratic process regularly encounters.
 
-## 3.3 The Limits to Participation
+## The Limits to Participation
 
 As of today, almost one third of the world’s population is connected to
 the Internet. Historically, the Internet is probably the mode of
@@ -883,7 +883,7 @@ are highly popular sites, despite the fact that the site content is
 produced by a tiny minority of users who are not necessarily
 representative.
 
-## 3.4 Independence
+## Independence
 
 Delegating production without *a priori* is surely the main
 characteristic of *crowdsourcing.* Providing the opportunity for
@@ -948,7 +948,7 @@ anonymity are becoming more evident by the day, whereas the Internet’s
 potential to allow for individual expression is usurped for the benefit
 of those who have the greatest mastery.
 
-## 3.5 Aggregation
+## Aggregation
 
 Collective intelligence increasingly depends on the use of algorithms
 that exploit the digital traces of a number of individual actions in
@@ -977,7 +977,7 @@ developing a ‘soft consensus’, averaging out differences and extreme
 customization with the concomitant risk of seeing privacy destroyed,
 stands the opacity of algorithms whose role is increasingly decisive.
 
-## 3.6 Shared Meaning as a Political Issue
+## Shared Meaning as a Political Issue
 
 ‘Collective intelligence’ is an attractive turn of phrase but is
 nonetheless deeply problematic, starting with the very terms
@@ -1046,7 +1046,7 @@ propriety-based economy to one based on access is not essential,
 especially when creators’ rights are trampled and privacy is sacrificed
 for the sake of dubious benefits.
 
-## 4.1 The Spatial Aspects of Economic Transactions
+## The Spatial Aspects of Economic Transactions
 
 Since every economic transaction is also a form of communication, it is
 not surprising that the economy is influenced by the expansion of the
@@ -1078,7 +1078,7 @@ the economy as a whole. In this sense Amazon might well be the most
 striking example of the complex coupling of the material and the
 immaterial in the service of economic transactions.
 
-## 4.2 The Logic of Free
+## The Logic of Free
 
 The generalization of ‘free’ remains puzzling. Visibility and contact
 may have been greatly simplified but does this justify that most
@@ -1104,7 +1104,7 @@ shrewdly profiting on its symbolic appeal. This is because a price tag,
 however small, immediately puts a clear restraint on the chance of an
 exchange occurring.
 
-## 4.3 From Economies of Scale to Network Effects
+## From Economies of Scale to Network Effects
 
 The ubiquity of ‘free’ on the Internet is the outcome of many factors
 nurturing the emergence of a gift economy. Considering the cost of
@@ -1126,7 +1126,7 @@ article, song or film is almost nothing. This tendency to introduce
 such large economies of scale has reshaped the economy of ‘free’ by
 radically cutting down the distribution cost of creative works.
 
-## 4.4 We Are the Product 
+## We Are the Product 
 
 Our service economy is also transformed when encountering such
 opportunities. The advertising industry is the most demonstrative in
@@ -1169,7 +1169,7 @@ In concrete terms, Google has generated 50 billion US\$ in revenue for the
 financial year in 2012 while incurring only 37 billion US\$ in expenses. This amounts to a cost of 37 US\$ per user. In this context ‘free’ can only be understood as a means and not as an end. It is the ultimate ends of these
 exchanges that really need to be understood.
 
-## 4.5 Free and Rival Goods  
+## Free and Rival Goods  
 
 The principle of ‘free’ on the Internet is supported by a large number
 of people who believe it represents the ultimate expression of freedom
@@ -1243,7 +1243,7 @@ of social media and crowd-sourcing platforms? Do patents on software
 actually foster innovation? Finally, what does the ownership of a
 non-rival resource actually imply?
 
-## 4.6 What is the Price of ‘Free’?
+## What is the Price of ‘Free’?
 
 The ambiguous nature of gratis is due to the way it can be both a vector
 of freedom and one of dispossession. When talking about ‘free’ it is
@@ -1429,7 +1429,7 @@ around various legal and financial frameworks to their advantage and
 avoids the potentially less favorable national, economic and political
 influences.
 
-## 5.1 The Tenets of Decentralization
+## The Tenets of Decentralization
 
 The functional centrality we now witness in the Internet is completely
 at odds with the original features of the project as it was envisaged in
@@ -1461,7 +1461,7 @@ are able to take advantage of these new forms of centralities. Occupying
 a central place is a major asset, since such a key position can only be
 challenged by severe disruptions of existing technologies and practices.
 
-## 5.2 The Power of Default Choice and Status Quo
+## The Power of Default Choice and Status Quo
 
 One of the simplest methods to achieve centrality was used in the
 beginning of the 1990s by many access providers. This was at the dawn of
@@ -1505,7 +1505,7 @@ to increased centralization against the customers’ interests, as is the
 case with iOS or Android for mobile phones, Windows and Mac OS for
 operating systems, Firefox or Chromes for navigators, etc.
 
-## 5.3 Centrality and Network Effects
+## Centrality and Network Effects
 
 The most powerful element to achieving centrality comes from the network
 effect. Through default choice, status quo and gratis, the number of
@@ -1539,7 +1539,7 @@ network effect is so crucial to any service operating on the Internet.
 It is a space with a near-unlimited potential for centrality; an idea
 some corporate actors have understood all too well.
 
-## 5.4 From the Multiplicity of Territorial Places to the Singularity of Networked Places 
+## From the Multiplicity of Territorial Places to the Singularity of Networked Places 
 
 Understanding the rationale of hypercentrality demands a good grasp of
 the particular properties of networked spaces. The concentration of more and more digital practices in a growing number of spaces cannot simply be translated into a notion of territorial places.
@@ -1584,7 +1584,7 @@ benefiting from a positive feedback loop that is extremely detrimental
 to other competing sites lagging behind in network effect, visibility
 and centrality accretion.
 
-## 5.5 The Rationale of Reticular Coalescence
+## The Rationale of Reticular Coalescence
 
 What makes hypercentrality such a noteworthy factor is that it
 intensifies the features of centrality to an extreme degree. Once
@@ -1684,7 +1684,7 @@ previous Internet standard were, e.g. email and the World Wide Web.
 Otherwise a radical partitioning will be unavoidable as hypercentrality
 leads up to a breaking point.
 
-# 6. From Resilience to Vulnerability
+# Chapter 6. From Resilience to Vulnerability
 
 Ultimately we are witnessing the end of the Internet’s resilience as its
 nodes become ever more vulnerable. The Internet was developed with a
@@ -1701,7 +1701,7 @@ infrastructure but also endangering individuals. Secondly, it appears
 that network intrusion expertise is very unevenly distributed, revealing
 the existence of ever more blatant, imperialist strategies.
 
-## 6.1 Network Strength and Node Vulnerability
+## Network Strength and Node Vulnerability
 
 The success of the Internet makes its resources increasingly
 attractive for exploitation. As more of our activities take place online
@@ -1743,7 +1743,7 @@ meetings where the stakes are high is a good illustration of this state
 of affairs. Spies must now either resort to more conventional and
 onerous techniques or develop more sophisticated cyber methods.
 
-## 6.2 Reticular Imperialism
+## Reticular Imperialism
 
 This situation is disturbing because hackers are far from the only
 groups to exploit these vulnerabilities. On the contrary, many hackers
@@ -1800,7 +1800,7 @@ core of the American legal system. It is therefore not surprising that
 it is being invoked to question the constitutional legitimacy of NSA’s
 ongoing surveillance operations.
 
-## 6.3 The Vulnerability of the Net and the Precarity of Individuals
+## The Vulnerability of the Net and the Precarity of Individuals
 
 The vulnerability of the Net now also means the vulnerability of the
 individual. Debates about striking a balance between security and
